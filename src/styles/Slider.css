@@ -1,0 +1,47 @@
+.slider{
+    user-select: none;
+}
+
+
+.swiper-pagination-bullet{
+    background-color: yellow;
+    opacity: 0.75;
+    transition: border-radius 0.3s ease,width 0.3s ease;
+}
+
+
+.swiper-pagination-bullet-active {
+    opacity: 1;
+    background-color: yellow;
+    border-radius: 50px;
+    width: 2rem;
+}
+
+.slide{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+.slide img{
+    width: 200vb;
+    height: 90vh;
+}
+
+@media (max-width:900px){
+    .slide{
+        width: 100vb;
+        height: 90vh;
+    }
+}
+
+@keyframes fadeIn {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}

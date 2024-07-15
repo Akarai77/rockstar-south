@@ -1,0 +1,85 @@
+.player-container{
+    z-index: 3;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    bottom: 3%;
+    left: 0;
+}
+.player{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 1rem;
+    font-size: 2rem;
+}
+
+.player .progress-bar{
+    width: 100%;
+    height: 10px; /* Adjust height as needed */
+    background-color: rgba(255, 255, 255, 0.193);
+    cursor: pointer;
+}
+
+.player .progress-bar .progress {
+    height: 100%;
+    background-color: red;
+    border-radius: 0 5px 5px 0;
+  }
+
+.player .row{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.player .play-pause{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.player .volume{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.player .vol-btn{
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+.player .vol-btn.green{
+    color: green;
+}
+
+.player .vol-btn.red{
+    color: red;
+}
+
+.player .vol-btn:hover{
+    color: rgba(190, 184, 184, 0.951);
+}
+
+.player .vol-btn.green:hover{
+    color: green;
+}
+
+.player .vol-btn.red:hover{
+    color: red;
+}
+
+.player .pp-btn{
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+.player .pp-btn:hover{
+    color: rgba(190, 184, 184, 0.951);
+}

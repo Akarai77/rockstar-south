@@ -1,0 +1,38 @@
+.Home .heading{
+    margin: 10rem 0;
+}
+
+.cards-preview{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: fit-content;
+    gap: 15rem;
+}
+
+.cards-preview-2{
+    display: flex;
+    flex-direction: column;
+    gap: 10rem;
+}
+
+.view-more{
+    width: fit-content;
+    height: fit-content;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10rem;
+}
+
+.Home #enlarge{
+    display: none;
+}
+
+
+@media (max-width:900px){
+    .anim{
+        left: 45%;
+    }
+}

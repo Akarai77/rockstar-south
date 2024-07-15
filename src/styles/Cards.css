@@ -1,0 +1,20 @@
+.cards-container .heading{
+    margin-top: 5rem;
+}
+
+.cards-container .cards{
+    display: flex;
+    margin: 7.5%;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5rem;
+}
+
+.cards-container.enlarge{
+    height: 80vh;
+    overflow: hidden;
+    .heading{
+        opacity: 0;
+    }
+}

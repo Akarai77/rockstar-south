@@ -1,0 +1,16 @@
+.error{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+    text-align: center;
+    margin-top: 10rem;
+    background-color: pink;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 50px red;
+    font-size: 3rem;
+    width: 50%;
+    height: 15rem;
+    color: red;
+    user-select: none;
+}

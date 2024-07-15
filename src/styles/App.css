@@ -1,0 +1,29 @@
+.up{
+    animation: up 1s ease;
+}
+
+.up2{
+    animation: up2 1.5s ease;
+}
+
+@keyframes up {
+    from{
+        opacity: 0;
+        margin-top: 5%;
+    }
+    to{
+        opacity: 1;
+        margin-top: 0%;
+    }
+}
+
+@keyframes up2 {
+    from{
+        opacity: 0;
+        margin-top: 5%;
+    }
+    to{
+        opacity: 1;
+        margin-top: 0%;
+    }
+}

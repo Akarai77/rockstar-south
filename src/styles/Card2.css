@@ -1,0 +1,132 @@
+.game-card{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 50px black;
+    transition: transform 0.3s ease;
+    user-select: none;
+  }
+
+
+  .game-card:hover{
+    transform: scale3d(1.01,1.01,1.01);
+    box-shadow: 1px 1px 10px white;
+  }
+
+  .first-row{
+    display: flex;
+  }
+
+  .first-row.reverse{
+    flex-direction: row-reverse;
+  }
+
+  .game-card .img{
+    width: 100%;
+    height: 35rem;
+  }
+
+
+.game-card .img img{
+    width: 100%;
+    height: 100%;
+}
+
+.info{
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 3rem;
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  word-wrap: break-word;
+  height: 30rem;
+  padding: 2.5rem;
+}
+  
+  .dropdown-btn{
+    color: yellow;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 5px 5px 50px black;
+    padding: 10px;
+    transition: all 0.3s ease;
+    justify-content: space-between;
+  }
+  
+  .dropdown-btn h1{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
+  .dropdown-btn:hover{
+    cursor: pointer;
+    background-color: rgba(255, 255, 0, 0.84);
+    h1{
+      color: #333333;
+    }
+    .arrow{
+      color: #333333;
+    }
+  }
+  
+  .dropdown-btn .arrow {
+    color: white;
+    font-size: 1.3rem;
+    margin-top: 10px;
+    margin-right: 5px;
+    transition: transform 0.4s ease;
+  }
+  
+  .dropdown-btn .arrow.rotate{
+    transform: rotate(180deg);
+  }
+  
+  .game-card .dropdown-content{
+    color: yellow;
+    border-radius: 0 0 20px 20px;
+    width: 100;
+    height: 0px;
+    opacity: 0;
+    overflow: hidden;
+    transition: height 0.5s ease,opacity 0.7s ease;
+    box-shadow: 5px 5px 50px black;
+  }
+  
+  .dropdown-content.open{
+    height: 0px;
+    opacity: 1;
+    overflow: hidden;
+  }
+  
+  .dropdown-content .dropdown-item p{
+    margin-right: 20px;
+    font-size: 25px;
+    text-align: center;
+  }
+  
+  .dropdown-content .dropdown-item{
+    width: 100%;
+  }
+  
+  .dropdown-content .dropdown-item:hover{
+    cursor: pointer;
+    background-color: rgba(255, 255, 0, 0.84);
+    p{
+      color: #333333;
+    }
+  }
+
+
+  @media (max-width:900px){
+    .game-card{
+      width: 97%;
+    }
+  }

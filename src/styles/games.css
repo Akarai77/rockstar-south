@@ -1,0 +1,11 @@
+.games-container .heading{
+    margin-top: 5rem;
+}
+
+.games-container .games{
+    display: flex;
+    margin: 7.5%;
+    margin-bottom: 20%;
+    flex-direction: column;
+    gap: 10rem;
+}

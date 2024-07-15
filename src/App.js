@@ -1,24 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import Home from "./pages/Home";
+import Navbar from "./pages/Navbar";
+import Cards from "./pages/Cards";
+import Games from "./pages/Games";
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import "./styles/App.css";
+import GameInfo from "./components/GameInfo";
+import Contact from "./pages/Contact";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <ScrollToTop/>
+      <div className="App">
+          <Navbar/>
+          <div className="body">
+            <Routes>
+              <Route path="/" element={<Home/>}></Route>
+              <Route path="/Cards" element={<Cards/>}></Route>
+              <Route path="/Games" element={<Games/>}></Route>
+              <Route path="/GameInfo" element={<GameInfo/>}></Route>
+              <Route path="/Contact" element={<Contact/>}></Route>
+            </Routes>
+          </div>
+      </div>
+    </Router>
   );
 }
 
