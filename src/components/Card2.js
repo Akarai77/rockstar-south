@@ -9,7 +9,7 @@ const Card2 = ({ obj,reverse }) => {
     useEffect(()=>{
         if(isActive){
             const items=heightRef.current.getElementsByClassName("dropdown-item");
-            heightRef.current.style.height=((items.length)*37).toString()+"px";
+            heightRef.current.style.height=((items.length)*36).toString()+"px";
         } else {
             heightRef.current.style.height="0px";
         }
@@ -18,7 +18,7 @@ const Card2 = ({ obj,reverse }) => {
     const [isActive,setIsActive] = useState(false);
 
     return ( 
-        <div className='game-card'>
+        <div className={`game-card ${isActive ? "open" : ""}`}>
             <div className={`first-row ${reverse ? "reverse" : ""}`}>
                 <div className="img">
                     <img src={require(`../${obj.img}`)} alt={obj.title} />

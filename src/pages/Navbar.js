@@ -1,12 +1,16 @@
-import { NavLink } from "react-router-dom";
-import { useState } from "react";
+import { NavLink, useLocation } from "react-router-dom";
+import { useEffect, useState } from "react";
 import '../styles/Navbar.css';
-
 
 const Navbar = () => {
   const [isProfileActive,setIsProfileActive] = useState(false);
-  const [activeLink,setActiveLink] = useState(null);
   const [showLinks,setShowLinks] = useState(false);
+  const [activeLink,setActiveLink] = useState("/");
+  const location = useLocation();
+
+  useEffect(()=>{
+    setActiveLink(location.pathname);
+  },[location.pathname]);
 
   const profile =
     <div className="profile">
@@ -23,9 +27,9 @@ const Navbar = () => {
 
 
   const links = <div style={{display:"flex"}}>
-    <NavLink className={`${activeLink === 'link1' ? 'active' : ''}`} onClick={()=>setActiveLink('link1')} to="/">Home</NavLink>
-    <NavLink className={`${activeLink === 'link2' ? 'active' : ''}`} onClick={()=>setActiveLink('link2')} to="/Cards">Cards</NavLink>
-    <NavLink className={`${activeLink === 'link3' ? 'active' : ''}`} onClick={()=>setActiveLink('link3')} to="/Games">Games</NavLink>
+    <NavLink className={`${activeLink === '/' ? 'active' : ''}`} onClick={()=>{setActiveLink('/');setShowLinks(false);}} to="/">Home</NavLink>
+    <NavLink className={`${activeLink === '/Cards' ? 'active' : ''}`} onClick={()=>{setActiveLink('/Cards');setShowLinks(false);}} to="/Cards">Cards</NavLink>
+    <NavLink className={`${activeLink === '/Games' ? 'active' : ''}`} onClick={()=>{setActiveLink('/Games');setShowLinks(false);}} to="/Games">Games</NavLink>
   </div>
 
     return ( 

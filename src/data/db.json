@@ -128,7 +128,7 @@
     "games-info":[
         {
             "game":"Grand Theft Auto",
-            "game-info":[
+            "gameInfo":[
                 {
                     "id": 0,
                     "title": "Grand Theft Auto 1",
@@ -715,7 +715,7 @@
 
         {
             "game":"Red Dead Redemption",
-            "game-info":[
+            "gameInfo":[
                 {
                     "id": 0,
                     "title": "Red Dead Revolver",
@@ -889,7 +889,7 @@
 
         {
             "game":"L. A. Noire",
-            "game-info":[
+            "gameInfo":[
                 {
                     "id": 0,
                     "title": "L.A. Noire",
@@ -1004,7 +1004,7 @@
         
         {
             "game":"Bully",
-            "game-info":[
+            "gameInfo":[
                 {
                     "id": 0,
                     "title": "Bully",
@@ -1119,7 +1119,7 @@
 
         {
             "game":"Midnight Club",
-            "game-info":[
+            "gameInfo":[
                 {
                     "id": 0,
                     "title": "Midnight Club: Street Racing",
@@ -1456,7 +1456,7 @@
 
         {
             "game":"Max Payne",
-            "game-info":[
+            "gameInfo":[
                 {
                     "id": 0,
                     "title": "Max Payne",

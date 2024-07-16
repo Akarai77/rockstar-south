@@ -2,12 +2,13 @@
     color: yellow;
     display: flex;
     flex-wrap: wrap;
+    opacity: 1;
     width: 20rem;
     height: 35rem;
     padding: 30px;
     user-select: none;
     box-shadow: 5px 5px 50px black;
-    transition: transform 0.5s ease;
+    transition: transform 0.5s ease,opacity 1.5s ease;
   }
   
 
@@ -108,6 +109,21 @@
     .game-bgvideo{
       display: block;
     }
+  }
+
+  .card.shrink{
+    h2{
+      opacity: 0;
+    }
+    p{
+      opacity: 0;
+    }
+    width: 0;
+    height: 0;
+    opacity: 0;
+    position: absolute;
+    top: 17.5rem;
+    transition: width 2s ease, height 1.5s ease,opacity 1s ease,top 1s ease;
   }
 
   .card .exit{

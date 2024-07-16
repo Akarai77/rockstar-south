@@ -2,8 +2,30 @@
     margin: 3rem 0 3rem 0;
 }
 
-.content{
+
+.game-list .game{
+    margin: 0 0 5rem 4em;
+}
+
+.game-list .game h2{
     color: yellow;
-    text-align: justify;
-    margin: 2rem;
+}
+
+.game-list .game ol{
+    font-size: 1.5rem;
+}
+
+.game-list .game ol a{
+    text-decoration: none;
+    color: white;
+}
+
+.game-list .game ol a:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.game-list .game ol a:visited{
+    color: rgb(71, 23, 119);
+    text-decoration-color: rgb(71, 23, 119);
 }

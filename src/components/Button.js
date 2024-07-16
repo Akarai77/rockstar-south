@@ -3,10 +3,11 @@ import "../styles/Button.css"
 import { Link } from 'react-router-dom'
 
 const Button = ({content,to}) => {
+
   return (
     <div className='Button'>
         <Link to={to}>
-          <button className="btn">{content}</button>
+          <button className="btn" >{content}</button>
         </Link>
     </div>
   )
