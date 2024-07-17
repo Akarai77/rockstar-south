@@ -14,9 +14,9 @@ const Footer = () => {
     <div className="footer">
         <div className="internal-links">
             <NavLink to={"/Contact"}>Contact</NavLink>
-            <NavLink>About</NavLink>
-            <NavLink>Home</NavLink>
-            <NavLink>Feedback</NavLink>
+            <NavLink to={"/About"}>About</NavLink>
+            <NavLink to={"/"}>Home</NavLink>
+            <NavLink to={"/Feedback"}>Feedback</NavLink>
             <div className="container">
                 <div className="set-language">
                     <div className="button" onClick={()=>{setLangActive(!isLangActive)}}>

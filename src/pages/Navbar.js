@@ -30,6 +30,7 @@ const Navbar = () => {
     <NavLink className={`${activeLink === '/' ? 'active' : ''}`} onClick={()=>{setActiveLink('/');setShowLinks(false);}} to="/">Home</NavLink>
     <NavLink className={`${activeLink === '/Cards' ? 'active' : ''}`} onClick={()=>{setActiveLink('/Cards');setShowLinks(false);}} to="/Cards">Cards</NavLink>
     <NavLink className={`${activeLink === '/Games' ? 'active' : ''}`} onClick={()=>{setActiveLink('/Games');setShowLinks(false);}} to="/Games">Games</NavLink>
+    <NavLink className={`${activeLink === '/Gallery' ? 'active' : ''}`} onClick={()=>{setActiveLink('/Gallery');setShowLinks(false);}} to="/Gallery">Gallery</NavLink>
   </div>
 
     return ( 

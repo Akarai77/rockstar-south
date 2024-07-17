@@ -15,6 +15,7 @@ const Card = ({card,isEnlarged,setEnlargedCardId}) => {
           document.querySelector('.card.enlarge').focus();
         }
       }, [isEnlarged]);
+      
  
     const handleKeyPress = (e) =>{
         if(e.keyCode===32){
@@ -51,7 +52,7 @@ const Card = ({card,isEnlarged,setEnlargedCardId}) => {
             >
             {
                 isEnlarged && <div className="exit">
-                    <FaTimes onClick={()=>{setEnlargedCardId(null); videoRef.current.pause(); setIsShrinking(true); setTimeout(()=>setIsShrinking(false),1000);}}/>
+                    <FaTimes onClick={()=>{setEnlargedCardId(null); videoRef.current.pause(); setIsShrinking(true); setTimeout(()=>setIsShrinking(false),1500);}}/>
                 </div>
             }
             <video className={`game-bgvideo ${isVideoActive ? 'clicked':''}`} muted loop ref={videoRef} onTimeUpdate={updateProgressBar}>

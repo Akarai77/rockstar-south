@@ -5,10 +5,10 @@ import Footer from '../components/Footer'
 const Contact = () => {
   return (
     <div className="contact-container">
-        <div className="heading">
+        <div style={{marginTop:"3rem"}}>
             <Heading content={"Contact Info"}/>
         </div>
-        <div className="content" style={{color:"white",fontSize:"1.5rem"}}>
+        <div className="content" style={{color:"white",fontSize:"1.5rem",margin:"2rem",marginLeft:"3rem"}}>
             Welcome to Rockstar South – Where Pixels Ctrl-C meets Ctrl-V!<br/><br/>
             
             Corporate Headquarters:<br/>

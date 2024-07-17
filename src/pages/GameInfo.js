@@ -15,22 +15,19 @@ const GameInfo = ({gameList,gameDetails}) => {
     <div className='game-info-container up'>
         {
             gameList && <div className="game-list">
-                <div className="heading">
+                <div className="h1">
                     <Heading content={"All Games :"}/>
                 </div>
                 <div>
                     {
-                        gameList.map((games)=>(
+                        gameList.map((series)=>(
                             <div className="game">
-                                <h2>{games.game}</h2>
+                                <h2>{series.title}</h2>
                                     <ol className='list'>
                                         {
-                                            games.gameInfo.map((game)=>{
-                                                const gameName = game.title.replace(/\s+/g, '');
-                                                return(
-                                                    <Link to={`./${gameName.trim()}`}><li>{game.title}</li></Link>
-                                                )
-                                            })
+                                            series.games.map((game)=>(
+                                                <Link to={`./${game.replace(/\s+/g, '')}`}><li>{game}</li></Link>
+                                            ))
                                         }
                                     </ol>
                             </div>
@@ -40,10 +37,44 @@ const GameInfo = ({gameList,gameDetails}) => {
             </div>
         }
         {
-            gameDetails && <div className="game-info">
-                <div>
-                    
+            gameDetails && 
+            <div className="game-info">
+                <div className="h1">
+                    <Heading content={gameDetails.title}/>
                 </div>
+                <div className="genre">
+                    <h2>Genre: </h2>
+                    <p>{gameDetails.genre}</p>
+                </div>
+
+                <div className="releaseDates">
+                    <h2>Release Dates: </h2>
+                    {
+                        gameDetails.releaseDates.map((date)=>(
+                            <p>{date}</p>
+                        ))
+                    }
+                </div>
+
+                {
+                    gameDetails.body.map((body)=>(
+                        <div className="body">
+                            <h2>
+                                {body.heading}
+                            </h2>
+                            <div className="content">
+                            {
+                                body.content.map((subContent)=>(
+                                    <div className="subContent">
+                                        <h3>{subContent.subHeading}</h3>
+                                        <p>{subContent.paragraph}</p>
+                                    </div>
+                                ))
+                            }
+                            </div>
+                        </div>
+                    ))
+                }
             </div>
         }
         <Footer/>

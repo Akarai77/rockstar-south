@@ -1,10 +1,11 @@
-.heading{
-    margin: 3rem 0 3rem 0;
+.h1{
+    margin: 3rem 0 3rem -5rem;
 }
 
 
 .game-list .game{
-    margin: 0 0 5rem 4em;
+    user-select: none;
+    margin: 0 0 5rem 6rem;
 }
 
 .game-list .game h2{
@@ -25,7 +26,31 @@
     text-decoration-color: white;
 }
 
-.game-list .game ol a:visited{
-    color: rgb(71, 23, 119);
-    text-decoration-color: rgb(71, 23, 119);
+.game-info{
+    user-select: none;
+    margin: 3rem 3rem 10rem 5rem;
+    color: white;
+    white-space: break-word;
+}
+
+.game-info .h1{
+    margin-bottom:2rem;
+}
+
+.game-info h2{
+    font-size: 2rem;
+    margin: 1rem 0 0 1rem;
+    color: rgb(230, 230, 20);
+}
+
+.game-info h3{
+    font-size: 1.75rem;
+    margin: 1rem 0 0 2rem;
+    color: rgb(200, 200, 100);
+}
+
+.game-info p{
+    font-size: 1.5rem;
+    text-wrap: wrap;
+    margin-left:3rem;
 }

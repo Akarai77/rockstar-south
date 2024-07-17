@@ -1,0 +1,49 @@
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    gap: 2rem;
+    width: 50%;
+    border: 1px solid white;
+}
+
+form div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    gap: 1rem;
+}
+
+label{
+    color: yellow;
+    font-size: 1.5rem;
+}
+
+input{
+    width: 75%;
+}
+
+textarea{
+    width: 100%;
+}
+
+#submit{
+    width: 30%;
+    padding: 0.5rem;
+    font-size: 1.25rem;
+    color: white;
+    border: none;
+    background-color: #1e1e1e;
+    border-radius: 20px;
+    box-shadow: 5px 5px 50px black;
+    margin-left: auto;
+    cursor: pointer;
+    margin-right: auto;
+    transition: all 0.3s ease;
+}
+
+#submit:hover{
+    background-color: white;
+    color: black;
+}

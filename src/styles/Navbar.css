@@ -1,7 +1,6 @@
 .navbar {
     display: flex;
     margin: auto;
-    max-width: auto;
     max-height: 3rem;
     padding: 20px;
     background-color: black;

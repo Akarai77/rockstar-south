@@ -1,1631 +1,1740 @@
 {
-    "slides-count":6,
-    "slider": [
-        {
-            "id":1,
-            "title": "GRAND THEFT AUTO",
-            "img": "images/gta.jpg"
-        },
-        {
-            "id":2,
-            "title": "RED DEAD REDEMPTION",
-            "img": "images/RDR.jpg"
+  "slides-count":6,
+  "slider": [
+      {
+          "id":1,
+          "title": "GRAND THEFT AUTO",
+          "img": "images/gta.jpg"
+      },
+      {
+          "id":2,
+          "title": "RED DEAD REDEMPTION",
+          "img": "images/RDR.jpg"
 
-        },
-        {
-            "id":3,
-            "title": "L.A. NOIRE",
-            "img": "images/Lan.avif"
-        },
-        {
-            "id":4,
-            "title": "BULLY",
-            "img": "images/Bully.jpg"
-        },
-        {
-            "id":5,
-            "title": "MAX PAYNE",
-            "img": "images/MP.webp"
-        },
-        {
-            "id":6,
-            "title": "MIDNIGHT CLUB",
-            "img": "images/MC.jpg"
-        }
-    ],
+      },
+      {
+          "id":3,
+          "title": "L.A. NOIRE",
+          "img": "images/Lan.avif"
+      },
+      {
+          "id":4,
+          "title": "BULLY",
+          "img": "images/Bully.jpg"
+      },
+      {
+          "id":5,
+          "title": "MAX PAYNE",
+          "img": "images/MP.webp"
+      },
+      {
+          "id":6,
+          "title": "MIDNIGHT CLUB",
+          "img": "images/MC.jpg"
+      }
+  ],
 
 
-    "cards":[
-        {
-            "id":1,
-            "title":"GRAND THEFT AUTO",
-            "content":"The GTA series is like being a rockstar without needing a guitar, just a fast car and a questionable moral compass. Think of it as urban life on energy drinks and no sleep. You can hijack a car, dodge police,do yoga then somehow unknowingly end up in the strip club. It’s a place where obeying traffic laws feels illegal and you can change outfits more than a runway model, all while wondering if that NPC you just bumped into is secretly judging your driving skills.",
-            "video":"videos/GTA.mp4"
-        },
-        {
-            "id":2,
-            "title":"RED DEAD REDEMPTION",
-            "content":"Red Dead Redemption is like stepping into cowboy boots two sizes too big—it’s all about wrangling horses that are more stubborn than your grandpa and shooting up saloons with more chaos than a barn dance. Whether you’re herding cattle or accidentally lassoing your own horse, it’s a game where even the horses have a mind of their own—probably plotting revenge for all those times you jumped off cliffs. It’s the wild west, yeehaw meets oops!",
-            "video":"videos/RDR.mp4"
-        },
-        {
-            "id":3,
-            "title":"L.A. NOIRE",
-            "content":"L.A. Noire is like playing detective in a film noir where everyone’s got secrets deeper than Hollywood’s botox bill. You’ll solve crimes with more twists than a pretzel factory, interrogate suspects whose poker faces could bankrupt Vegas, and drive cars that handle like they’ve had one too many martinis. From tailing suspects without looking like a stalker to solving cases so puzzling, even Sudoku looks like child’s play. Just don’t forget your fedora—it’s noir, baby, noir!",
-            "video":"videos/LAN.mp4"
-        },
-        {
-            "id":4,
-            "title":"BULLY",
-            "content":"Bully is like high school with a cherry bomb twist—where you can prank, dodge prefects, and befriend nerds with the finesse of a social butterfly on a sugar rush. Navigate cliques with more drama than a reality TV show, master classes that make math look like rocket science, and pull off hijinks that’ll have you in detention faster than you can say 'wedgie'. It’s a world where slingshots are more powerful than speeches, and the cafeteria food is the real enemy.",
-            "video":"videos/BULLY.mp4"
-        },
-        {
-            "id":5,
-            "title":"MAX PAYNE",
-            "content":"Max Payne is like starring in a blockbuster where every bullet has its own stunt double and time slows down just to watch you dodge them. It’s about diving into bullet time with more grace than a slo-mo breakdancer, surviving gunfights that would make Rambo think twice, and piecing together a storyline so intense, even soap operas take notes. Max is the guy who brings pain to the bad guys and a dry wit that cuts deeper than his wounds..",
-            "video":"videos/MP.mp4"
-        },
-        {
-            "id":6,
-            "title":"MIDNIGHT CLUB",
-            "content":"Midnight Club is like trying to outsmart traffic in a game where everyone’s playing Mario Kart with real cars. It’s about customizing rides that scream 'Look at me!' more than a peacock on a parade float, hitting nitrous boosts that make your heart race faster than a double espresso, and dodging traffic like you’re auditioning for a stuntman role. Winning means leaving your opponents in the dust and your car smelling like victory—plus a hint of burnt rubber and gasoline.",
-            "video":"videos/MC.mp4"
-        }
-    ],
+  "cards":[
+      {
+          "id":1,
+          "title":"GRAND THEFT AUTO",
+          "content":"The GTA series is like being a rockstar without needing a guitar, just a fast car and a questionable moral compass. Think of it as urban life on energy drinks and no sleep. You can hijack a car, dodge police,do yoga then somehow unknowingly end up in the strip club. It’s a place where obeying traffic laws feels illegal and you can change outfits more than a runway model, all while wondering if that NPC you just bumped into is secretly judging your driving skills.",
+          "video":"videos/GTA.mp4"
+      },
+      {
+          "id":2,
+          "title":"RED DEAD REDEMPTION",
+          "content":"Red Dead Redemption is like stepping into cowboy boots two sizes too big—it’s all about wrangling horses that are more stubborn than your grandpa and shooting up saloons with more chaos than a barn dance. Whether you’re herding cattle or accidentally lassoing your own horse, it’s a game where even the horses have a mind of their own—probably plotting revenge for all those times you jumped off cliffs. It’s the wild west, yeehaw meets oops!",
+          "video":"videos/RDR.mp4"
+      },
+      {
+          "id":3,
+          "title":"L.A. NOIRE",
+          "content":"L.A. Noire is like playing detective in a film noir where everyone’s got secrets deeper than Hollywood’s botox bill. You’ll solve crimes with more twists than a pretzel factory, interrogate suspects whose poker faces could bankrupt Vegas, and drive cars that handle like they’ve had one too many martinis. From tailing suspects without looking like a stalker to solving cases so puzzling, even Sudoku looks like child’s play. Just don’t forget your fedora—it’s noir, baby, noir!",
+          "video":"videos/LAN.mp4"
+      },
+      {
+          "id":4,
+          "title":"BULLY",
+          "content":"Bully is like high school with a cherry bomb twist—where you can prank, dodge prefects, and befriend nerds with the finesse of a social butterfly on a sugar rush. Navigate cliques with more drama than a reality TV show, master classes that make math look like rocket science, and pull off hijinks that’ll have you in detention faster than you can say 'wedgie'. It’s a world where slingshots are more powerful than speeches, and the cafeteria food is the real enemy.",
+          "video":"videos/BULLY.mp4"
+      },
+      {
+          "id":5,
+          "title":"MAX PAYNE",
+          "content":"Max Payne is like starring in a blockbuster where every bullet has its own stunt double and time slows down just to watch you dodge them. It’s about diving into bullet time with more grace than a slo-mo breakdancer, surviving gunfights that would make Rambo think twice, and piecing together a storyline so intense, even soap operas take notes. Max is the guy who brings pain to the bad guys and a dry wit that cuts deeper than his wounds..",
+          "video":"videos/MP.mp4"
+      },
+      {
+          "id":6,
+          "title":"MIDNIGHT CLUB",
+          "content":"Midnight Club is like trying to outsmart traffic in a game where everyone’s playing Mario Kart with real cars. It’s about customizing rides that scream 'Look at me!' more than a peacock on a parade float, hitting nitrous boosts that make your heart race faster than a double espresso, and dodging traffic like you’re auditioning for a stuntman role. Winning means leaving your opponents in the dust and your car smelling like victory—plus a hint of burnt rubber and gasoline.",
+          "video":"videos/MC.mp4"
+      }
+  ],
 
-    "seriesList":[
-        {
-            "id":1,
-            "title":"GRAND THEFT AUTO",
-            "img":"images/gta2.jpg",
-            "quote":"GTA is one of my favorite games, man. It's just so fun to play and get lost in that world.",
-            "author":"Snoop Dogg",
-            "games":["GTA","GTA II","GTA III","GTA Vice City","GTA San Andreas","GTA IV","GTA V","GTA Online","GTA 6"]
-        },
-        {
-            "id":2,
-            "title":"RED DEAD REDEMPTION",
-            "img":"images/RDR2.jpg",
-            "quote":"This game is absolutely beautiful. The level of detail is incredible, and it's like stepping into another world.",
-            "author":"Conan O'Brien",
-            "games":["Red Dead Revolver","Read Dead Redemption","Red Dead Redemption II","Red Dead Online"]
-        },
-        {
-            "id":3,
-            "title":"L.A. NOIRE",
-            "img":"images/Lan2.jpeg",
-            "quote":"Playing L.A. Noire felt like stepping into a classic film noir. The storytelling and atmosphere are just incredible.",
-            "author":"Leonardo DiCaprio",
-            "games":["L.A. Noire","L.A. Noire: The VR Case Files"]
-        },
-        {
-            "id":4,
-            "title":"BULLY",
-            "img":"images/Bully2.jpg",
-            "quote":"Playing Bully reminded me of my school days, except I got to be the cool kid for once. It’s like living out a hilarious revenge fantasy!",
-            "author":"Ryan Reynolds",
-            "games":["Bully","Bully: Scholarship Edition"]
-        },
-        {
-            "id":5,
-            "title":"MIDNIGHT CLUB",
-            "img":"images/MC2.jpg",
-            "quote":"Playing Midnight Club is like living out my Fast & Furious dreams. The adrenaline rush is unreal!",
-            "author":"Vin Diesel",
-            "games":["Midnight Club: Street Racing","Midnight Club II","Midnight Club 3: DUB Edition","Midnight Club 3: DUB Edition Remix","Midnight Club: Los Angeles","Midnight Club: L.A. Remix"]
-        },
-        {
-            "id":6,
-            "title":"MAX PAYNE",
-            "img":"images/MP2.png",
-            "quote":"Playing Max Payne is like being in a non-stop action movie. The bullet-time mechanics are out of this world!",
-            "author":"Keanu Reeves",
-            "games":["Max Payne","Max Payne II","Max Payne III"]
-        }
-    ],
+  "seriesList":[
+      {
+          "id":1,
+          "title":"GRAND THEFT AUTO",
+          "img":"images/gta2.jpg",
+          "quote":"GTA is one of my favorite games, man. It's just so fun to play and get lost in that world.",
+          "author":"Snoop Dogg",
+          "games":["GTA I","GTA II","GTA III","GTA Vice City","GTA San Andreas","GTA IV","GTA V","GTA Online","GTA VI"]
+      },
+      {
+          "id":2,
+          "title":"RED DEAD REDEMPTION",
+          "img":"images/RDR2.jpg",
+          "quote":"This game is absolutely beautiful. The level of detail is incredible, and it's like stepping into another world.",
+          "author":"Conan O'Brien",
+          "games":["Red Dead Revolver","Read Dead Redemption","Red Dead Redemption II","Red Dead Online"]
+      },
+      {
+          "id":3,
+          "title":"L.A. NOIRE",
+          "img":"images/Lan2.jpeg",
+          "quote":"Playing L.A. Noire felt like stepping into a classic film noir. The storytelling and atmosphere are just incredible.",
+          "author":"Leonardo DiCaprio",
+          "games":["L.A. Noire","L.A. Noire: The VR Case Files"]
+      },
+      {
+          "id":4,
+          "title":"BULLY",
+          "img":"images/Bully2.jpg",
+          "quote":"Playing Bully reminded me of my school days, except I got to be the cool kid for once. It’s like living out a hilarious revenge fantasy!",
+          "author":"Ryan Reynolds",
+          "games":["Bully","Bully: Scholarship Edition"]
+      },
+      {
+          "id":5,
+          "title":"MIDNIGHT CLUB",
+          "img":"images/MC2.jpg",
+          "quote":"Playing Midnight Club is like living out my Fast & Furious dreams. The adrenaline rush is unreal!",
+          "author":"Vin Diesel",
+          "games":["Midnight Club: Street Racing","Midnight Club II","Midnight Club 3: DUB Edition","Midnight Club 3: DUB Edition Remix","Midnight Club: Los Angeles","Midnight Club: L.A. Remix"]
+      },
+      {
+          "id":6,
+          "title":"MAX PAYNE",
+          "img":"images/MP2.png",
+          "quote":"Playing Max Payne is like being in a non-stop action movie. The bullet-time mechanics are out of this world!",
+          "author":"Keanu Reeves",
+          "games":["Max Payne","Max Payne II","Max Payne III"]
+      }
+  ],
 
-    "games-info":[
-        {
-            "game":"Grand Theft Auto",
-            "gameInfo":[
-                {
-                    "id": 0,
-                    "title": "Grand Theft Auto 1",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                        "PlayStation: December 1997",
-                        "Microsoft Windows: February 1998",
-                        "Game Boy Color: December 1999"
-                    ],
-                    "body": [
-                        {
-                        "heading": "Overview",
-                        "content": [
-                            {
-                            "sub-heading": "Setting",
-                            "paragraph": "Grand Theft Auto 1 (GTA 1) is set in three fictional cities: Liberty City, Vice City, and San Andreas. Each city represents a different location and offers distinct challenges."
-                            },
-                            {
-                            "sub-heading": "Plot",
-                            "paragraph": "The game allows players to take on the role of a criminal who progresses through different levels of the underworld. Each city presents unique missions and challenges, ranging from petty theft to major heists."
-                            }
-                        ]
-                        },
-                        {
-                        "heading": "Gameplay",
-                        "content": [
-                            {
-                            "sub-heading": "Perspective",
-                            "paragraph": "GTA 1 is played from a top-down perspective, providing a wide view of the city and surroundings."
-                            },
-                            {
-                            "sub-heading": "Open World",
-                            "paragraph": "Players have the freedom to explore each city, engaging in various criminal activities and missions. The open-world design allows for non-linear gameplay."
-                            },
-                            {
-                            "sub-heading": "Missions and Challenges",
-                            "paragraph": "The game features a series of missions that advance the storyline and unlock new areas and challenges. Missions vary in complexity and objectives, requiring players to strategize and navigate through various obstacles."
-                            },
-                            {
-                            "sub-heading": "Progression and Upgrades",
-                            "paragraph": "As players complete missions and objectives, they can earn money and reputation within the criminal underworld. This progression system allows players to upgrade their character's abilities and access new tools and resources."
-                            }
-                        ]
-                        },
-                        {
-                        "heading": "Reception",
-                        "content": [
-                            {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Grand Theft Auto 1 received positive reviews for its innovative gameplay and open-world design. It laid the foundation for the successful franchise that followed."
-                            },
-                            {
-                            "sub-heading": "Legacy",
-                            "paragraph": "As the first installment in the Grand Theft Auto series, GTA 1 established many gameplay mechanics and elements that would become iconic in later titles. It remains a classic among fans of the series."
-                            }
-                        ]
-                        }
-                    ],
-                    "image": []
-                },
-        
-                {
-                    "id": 1,
-                    "title": "Grand Theft Auto 2",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "PlayStation: October 22, 1999",
-                      "Microsoft Windows: October 27, 1999",
-                      "Game Boy Color: December 2000"
-                    ],
-                    "body": [
+  "series-info":[
+      {
+          "game":"Grand Theft Auto",
+          "gameInfo":[
+              {
+                  "id": 0,
+                  "title": "Grand Theft Auto 1",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                      "PlayStation: December 1997",
+                      "Microsoft Windows: February 1998",
+                      "Game Boy Color: December 1999"
+                  ],
+                  "body": [
                       {
-                        "heading": "Overview",
-                        "content": [
+                      "heading": "Overview",
+                      "content": [
                           {
-                            "sub-heading": "Setting",
-                            "paragraph": "Grand Theft Auto 2 (GTA 2) is set in a sprawling metropolis known as Anywhere City. The city is divided into three districts: Downtown, Residential, and Industrial. Each district has its own distinct atmosphere and challenges."
+                          "subHeading": "Setting",
+                          "paragraph": "Grand Theft Auto 1 (GTA 1) is set in three fictional cities: Liberty City, Vice City, and San Andreas. Each city represents a different location and offers distinct challenges."
                           },
                           {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players assume the role of a criminal seeking to rise through the ranks of various criminal organizations in Anywhere City. The game features a series of missions that involve tasks such as theft, assassination, and sabotage."
+                          "subHeading": "Plot",
+                          "paragraph": "The game allows players to take on the role of a criminal who progresses through different levels of the underworld. Each city presents unique missions and challenges, ranging from petty theft to major heists."
                           }
-                        ]
+                      ]
                       },
                       {
-                        "heading": "Gameplay",
-                        "content": [
+                      "heading": "Gameplay",
+                      "content": [
                           {
-                            "sub-heading": "Perspective",
-                            "paragraph": "GTA 2 retains the top-down perspective of its predecessor, providing a wide view of the city and surroundings."
+                          "subHeading": "Perspective",
+                          "paragraph": "GTA 1 is played from a top-down perspective, providing a wide view of the city and surroundings."
                           },
                           {
-                            "sub-heading": "Open World",
-                            "paragraph": "Players have the freedom to explore Anywhere City at their own pace. The game offers a non-linear progression system where players can choose missions from different criminal factions."
+                          "subHeading": "Open World",
+                          "paragraph": "Players have the freedom to explore each city, engaging in various criminal activities and missions. The open-world design allows for non-linear gameplay."
                           },
                           {
-                            "sub-heading": "Missions and Factions",
-                            "paragraph": "Missions in GTA 2 are varied and range from simple tasks to complex heists. Players can align themselves with different criminal organizations, each offering unique mission chains and rewards."
+                          "subHeading": "Missions and Challenges",
+                          "paragraph": "The game features a series of missions that advance the storyline and unlock new areas and challenges. Missions vary in complexity and objectives, requiring players to strategize and navigate through various obstacles."
                           },
                           {
-                            "sub-heading": "Weapons and Vehicles",
-                            "paragraph": "The game features a wide array of weapons and vehicles that players can use to navigate and conquer Anywhere City. Vehicles range from cars and trucks to motorcycles and tanks."
+                          "subHeading": "Progression and Upgrades",
+                          "paragraph": "As players complete missions and objectives, they can earn money and reputation within the criminal underworld. This progression system allows players to upgrade their character's abilities and access new tools and resources."
                           }
-                        ]
+                      ]
                       },
                       {
-                        "heading": "Reception",
-                        "content": [
+                      "heading": "Reception",
+                      "content": [
                           {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Grand Theft Auto 2 received generally positive reviews for its improved gameplay mechanics and expansive open-world environment. It built upon the foundation laid by its predecessor and further established the series' reputation for innovative gameplay."
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Grand Theft Auto 1 received positive reviews for its innovative gameplay and open-world design. It laid the foundation for the successful franchise that followed."
                           },
                           {
-                            "sub-heading": "Legacy",
-                            "paragraph": "GTA 2 contributed significantly to the evolution of open-world action games. Its emphasis on player freedom and choice laid the groundwork for future entries in the Grand Theft Auto series."
+                          "subHeading": "Legacy",
+                          "paragraph": "As the first installment in the Grand Theft Auto series, GTA 1 established many gameplay mechanics and elements that would become iconic in later titles. It remains a classic among fans of the series."
                           }
-                        ]
+                      ]
                       }
-                    ],
-                    "image": []
-                },
-        
-                {
-                    "id": 2,
-                    "title": "Grand Theft Auto 3",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "PlayStation 2: October 22, 2001",
-                      "Microsoft Windows: May 21, 2002",
-                      "Xbox: October 31, 2003",
-                      "iOS: December 15, 2011"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Grand Theft Auto 3 (GTA 3) is set in Liberty City, a fictionalized version of New York City. The game introduces a fully 3D open-world environment."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players control Claude, a silent protagonist who becomes entangled in the criminal underworld of Liberty City after a bank heist gone wrong."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Perspective",
-                            "paragraph": "GTA 3 marks the series' transition to a third-person perspective, allowing for greater immersion and exploration."
-                          },
-                          {
-                            "sub-heading": "Open World",
-                            "paragraph": "Players can freely roam Liberty City, engaging in various missions and activities while interacting with a dynamic environment."
-                          },
-                          {
-                            "sub-heading": "Missions and Activities",
-                            "paragraph": "The game features a storyline with narrative-driven missions, side quests, and activities such as racing and vehicle theft."
-                          },
-                          {
-                            "sub-heading": "Impact",
-                            "paragraph": "GTA 3 revolutionized open-world gaming with its expansive environment and emergent gameplay mechanics, influencing future titles."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Grand Theft Auto 3 received widespread critical acclaim for its innovation, storytelling, and immersive world. It set new benchmarks for open-world gaming."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "As a landmark title in video game history, GTA 3 is credited with popularizing the open-world genre and influencing subsequent entries in the series."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                },
-        
-                {
-                    "id": 3,
-                    "title": "Grand Theft Auto: Vice City",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "PlayStation 2: October 27, 2002",
-                      "Microsoft Windows: May 12, 2003",
-                      "Xbox: October 31, 2003",
-                      "iOS: December 6, 2012"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Grand Theft Auto: Vice City is set in the fictional Vice City, inspired by 1980s Miami. The game captures the vibrant and decadent atmosphere of the era."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players assume the role of Tommy Vercetti, a criminal who rises through the ranks of Vice City's underworld while seeking revenge and building a criminal empire."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Setting and Atmosphere",
-                            "paragraph": "Vice City features a detailed open-world environment with urban and beachfront areas, reflecting the cultural and architectural style of 1980s Miami."
-                          },
-                          {
-                            "sub-heading": "Missions and Activities",
-                            "paragraph": "The game offers a narrative-driven campaign with missions that involve combat, driving, and exploration. Players can also engage in side activities such as property acquisition and business management."
-                          },
-                          {
-                            "sub-heading": "Music and Soundtrack",
-                            "paragraph": "Vice City is renowned for its soundtrack featuring licensed music from the 1980s, enhancing the game's atmosphere and immersion."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Grand Theft Auto: Vice City received critical acclaim for its storytelling, characters, and depiction of the 1980s. It is regarded as a cultural milestone in gaming."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "Vice City expanded on the success of GTA 3, further refining the open-world formula and setting new standards for narrative-driven gameplay and immersive environments."
-                          }
-                        ]
-                      }
-                    ],  
-                    "image": []
-                },
+                  ]
                   
-                {
-                    "id": 4,
-                    "title": "Grand Theft Auto: San Andreas",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "PlayStation 2: October 26, 2004",
-                      "Microsoft Windows and Xbox: June 7, 2005",
-                      "Xbox 360: October 26, 2014",
-                      "iOS and Android: December 2013"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Grand Theft Auto: San Andreas is set in the fictional state of San Andreas, comprising three major cities: Los Santos (based on Los Angeles), San Fierro (based on San Francisco), and Las Venturas (based on Las Vegas)."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "The game follows Carl \"CJ\" Johnson, who returns to Los Santos after the murder of his mother. CJ becomes involved in gang warfare and strives to regain control of his family's criminal empire while uncovering the truth behind his mother's death."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Scope and Freedom",
-                            "paragraph": "San Andreas features a vast open-world environment that includes urban areas, countryside, and desert landscapes. Players have unprecedented freedom to explore and engage in various activities."
-                          },
-                          {
-                            "sub-heading": "Gang and Territory System",
-                            "paragraph": "The game introduces a gang and territory system where CJ can recruit gang members, expand territory, and engage in gang wars to control areas of the map."
-                          },
-                          {
-                            "sub-heading": "Customization and Progression",
-                            "paragraph": "Players can customize CJ's appearance, skills, and attributes through activities such as exercise, eating, and skill-building. Progression unlocks new abilities and gameplay options."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Grand Theft Auto: San Andreas received critical acclaim for its ambitious scope, narrative depth, and gameplay innovations. It remains one of the best-selling games of all time."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "San Andreas expanded the GTA series' scope and narrative complexity, setting benchmarks for open-world design and player freedom in gaming."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                },
-                  
-        
-                {
-                    "id": 5,
-                    "title": "Grand Theft Auto 4",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "PlayStation 3 and Xbox 360: April 29, 2008",
-                      "Microsoft Windows: December 2, 2008"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Grand Theft Auto 4 (GTA 4) is set in Liberty City, a more realistic and detailed interpretation of New York City. The game explores the life of Eastern European immigrant Niko Bellic as he navigates the criminal underworld."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Niko Bellic arrives in Liberty City to pursue the American Dream but becomes entangled in the city's criminal factions, family drama, and political intrigue."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Realism and Immersion",
-                            "paragraph": "GTA 4 introduces a more realistic and immersive open-world experience, featuring a dynamic living city with detailed pedestrian behavior and interaction."
-                          },
-                          {
-                            "sub-heading": "Story and Missions",
-                            "paragraph": "The game offers a compelling narrative with complex characters and moral choices. Players engage in missions that blend action, driving, and strategic decision-making."
-                          },
-                          {
-                            "sub-heading": "Multiplayer and Social Features",
-                            "paragraph": "GTA 4 includes multiplayer modes that allow players to engage in cooperative and competitive gameplay, as well as social features like in-game internet access and dating."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Grand Theft Auto 4 received critical acclaim for its realistic portrayal of urban life, deep narrative, and immersive gameplay. It was praised for pushing the boundaries of open-world gaming."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "GTA 4 is regarded as a landmark title in the series, setting new standards for storytelling and game mechanics in open-world action games. It remains influential in the gaming industry."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                },
-        
-                {
-                    "id": 6,
-                    "title": "Grand Theft Auto V",
-                    "genre":"Action-Adventure",
-                    "release-dates":[
-                        "PlayStation 3 and Xbox 360: September 17, 2013",
-                        "PlayStation 4 and Xbox One: November 18, 2014",
-                        "Microsoft Windows: April 14, 2015",
-                        "PlayStation 5 and Xbox Series X/S: March 15, 2022"
-                    ],
-                    "body":[
+              },
+      
+              {
+                  "id": 1,
+                  "title": "Grand Theft Auto 2",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "PlayStation: October 22, 1999",
+                    "Microsoft Windows: October 27, 1999",
+                    "Game Boy Color: December 2000"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
                         {
-                            "heading":"Overview",
-                            "content":[
-                                {
-                                    "sub-heading":"Setting",
-                                    "paragraph":"GTA V is set in the fictional state of San Andreas, which is based on Southern California. The game primarily takes place in the city of Los Santos, which is modeled after Los Angeles, and the surrounding countryside and desert areas."
-                                },
-                                {
-                                    "sub-heading":"Plot",
-                                    "paragraph":"Michael De Santa: A retired bank robber living under witness protection.\nTrevor Philips: Michael’s former partner, a psychopathic and violent criminal.\nFranklin Clinton: A young gang member looking for opportunities to make money.\nThe story intertwines their personal struggles and their attempts to commit a series of heists. Players can switch between these characters both during missions and in free-roam mode."
-                                }
-                            ]
+                          "subHeading": "Setting",
+                          "paragraph": "Grand Theft Auto 2 (GTA 2) is set in a sprawling metropolis known as Anywhere City. The city is divided into three districts: Downtown, Residential, and Industrial. Each district has its own distinct atmosphere and challenges."
                         },
                         {
-                            "heading":"Gameplay",
-                            "content":[
-                                {
-                                    "sub-heading":"Perspective",
-                                    "paragraph":"GTA V can be played from both a third-person and a first-person perspective (introduced in the next-gen and PC versions)."
-                                },
-                                {
-                                    "sub-heading":"Open World",
-                                    "paragraph":"The game features a vast open-world environment that players can explore freely. The world includes urban areas, countryside, mountains, and oceans, all of which are teeming with activities, missions, and random events."
-                                },
-                                {
-                                    "sub-heading":"Missions and Heists",
-                                    "paragraph":"The main storyline is driven by missions, including complex heists that require careful planning and execution. Players can switch between the three protagonists to utilize their unique skills during missions."
-                                },
-                                {
-                                    "sub-heading":"Activites",
-                                    "paragraph":"Beyond the main missions, players can engage in a variety of side activities such as:\nSports and leisure: Tennis, golf, cycling, hunting, and more.\nBusiness ventures: Buying properties and businesses to generate income.\nMini-games: Yoga, triathlons, and arcade games."
-                                },
-                                {
-                                    "sub-heading":"Vehicles and Customization",
-                                    "paragraph":"Players can drive a wide range of vehicles including cars, bikes, boats, and aircraft. Customization options are extensive, allowing modifications to vehicles and weapons."
-                                }
-                            ]
-                        },
-                        {
-                            "heading":"Online Mode",
-                            "content":[
-                                {
-                                    "sub-heading":"Grand Theft Auto Online",
-                                    "paragraph":"Launched shortly after the release of GTA V, this is the online multiplayer mode of the game. It allows up to 30 players to explore the open world, participate in missions, races, and other activities, and create their own content. The online mode has been continuously updated with new content, including heists, businesses, and events."
-                                }
-                            ]
-                        },
-                        {
-                            "heading":"Reception",
-                            "content":[
-                                {
-                                    "sub-heading":"Critical Acclaim",
-                                    "paragraph":"GTA V received universal acclaim from critics, who praised its expansive open world, narrative depth, and character switching mechanic. It is considered one of the greatest video games of all time."
-                                },
-                                {
-                                    "sub-heading":"Commercial Success",
-                                    "paragraph":"The game has been a massive commercial success, breaking several sales records and generating billions of dollars in revenue. It continues to be popular years after its initial release, with a large and active player base."
-                                }
-                            ]
-                        },
-                        {
-                            "heading":"Legacy",
-                            "content":[
-                                {
-                                    "sub-heading":"",
-                                    "paragraph":"GTA V has had a significant impact on the gaming industry, influencing open-world game design and pushing the boundaries of what is possible in video game narratives and technical execution. Its success has solidified Rockstar Games' reputation as one of the leading developers in the industry."
-                                },
-                                {
-                                    "sub-heading":"Future",
-                                    "paragraph": "While GTA V continues to receive updates, fans are eagerly anticipating the next installment in the series, GTA VI, which has been officially announced but not yet released."
-                                }
-                            ]
+                          "subHeading": "Plot",
+                          "paragraph": "Players assume the role of a criminal seeking to rise through the ranks of various criminal organizations in Anywhere City. The game features a series of missions that involve tasks such as theft, assassination, and sabotage."
                         }
-                    ],
-                    "image":[
-        
-                    ]
-                },
-        
-                {
-                    "id": 7,
-                    "title": "Grand Theft Auto Online",
-                    "genre": "Action-Adventure, Online Multiplayer",
-                    "release-dates": [
-                      "PlayStation 3 and Xbox 360: October 1, 2013",
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Perspective",
+                          "paragraph": "GTA 2 retains the top-down perspective of its predecessor, providing a wide view of the city and surroundings."
+                        },
+                        {
+                          "subHeading": "Open World",
+                          "paragraph": "Players have the freedom to explore Anywhere City at their own pace. The game offers a non-linear progression system where players can choose missions from different criminal factions."
+                        },
+                        {
+                          "subHeading": "Missions and Factions",
+                          "paragraph": "Missions in GTA 2 are varied and range from simple tasks to complex heists. Players can align themselves with different criminal organizations, each offering unique mission chains and rewards."
+                        },
+                        {
+                          "subHeading": "Weapons and Vehicles",
+                          "paragraph": "The game features a wide array of weapons and vehicles that players can use to navigate and conquer Anywhere City. Vehicles range from cars and trucks to motorcycles and tanks."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Grand Theft Auto 2 received generally positive reviews for its improved gameplay mechanics and expansive open-world environment. It built upon the foundation laid by its predecessor and further established the series' reputation for innovative gameplay."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "GTA 2 contributed significantly to the evolution of open-world action games. Its emphasis on player freedom and choice laid the groundwork for future entries in the Grand Theft Auto series."
+                        }
+                      ]
+                    }
+                  ]
+                  
+              },
+      
+              {
+                  "id": 2,
+                  "title": "Grand Theft Auto 3",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "PlayStation 2: October 22, 2001",
+                    "Microsoft Windows: May 21, 2002",
+                    "Xbox: October 31, 2003",
+                    "iOS: December 15, 2011"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Grand Theft Auto 3 (GTA 3) is set in Liberty City, a fictionalized version of New York City. The game introduces a fully 3D open-world environment."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players control Claude, a silent protagonist who becomes entangled in the criminal underworld of Liberty City after a bank heist gone wrong."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Perspective",
+                          "paragraph": "GTA 3 marks the series' transition to a third-person perspective, allowing for greater immersion and exploration."
+                        },
+                        {
+                          "subHeading": "Open World",
+                          "paragraph": "Players can freely roam Liberty City, engaging in various missions and activities while interacting with a dynamic environment."
+                        },
+                        {
+                          "subHeading": "Missions and Activities",
+                          "paragraph": "The game features a storyline with narrative-driven missions, side quests, and activities such as racing and vehicle theft."
+                        },
+                        {
+                          "subHeading": "Impact",
+                          "paragraph": "GTA 3 revolutionized open-world gaming with its expansive environment and emergent gameplay mechanics, influencing future titles."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Grand Theft Auto 3 received widespread critical acclaim for its innovation, storytelling, and immersive world. It set new benchmarks for open-world gaming."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "As a landmark title in video game history, GTA 3 is credited with popularizing the open-world genre and influencing subsequent entries in the series."
+                        }
+                      ]
+                    }
+                  ]
+                  
+              },
+      
+              {
+                  "id": 3,
+                  "title": "Grand Theft Auto: Vice City",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "PlayStation 2: October 27, 2002",
+                    "Microsoft Windows: May 12, 2003",
+                    "Xbox: October 31, 2003",
+                    "iOS: December 6, 2012"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Grand Theft Auto: Vice City is set in the fictional Vice City, inspired by 1980s Miami. The game captures the vibrant and decadent atmosphere of the era."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players assume the role of Tommy Vercetti, a criminal who rises through the ranks of Vice City's underworld while seeking revenge and building a criminal empire."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Setting and Atmosphere",
+                          "paragraph": "Vice City features a detailed open-world environment with urban and beachfront areas, reflecting the cultural and architectural style of 1980s Miami."
+                        },
+                        {
+                          "subHeading": "Missions and Activities",
+                          "paragraph": "The game offers a narrative-driven campaign with missions that involve combat, driving, and exploration. Players can also engage in side activities such as property acquisition and business management."
+                        },
+                        {
+                          "subHeading": "Music and Soundtrack",
+                          "paragraph": "Vice City is renowned for its soundtrack featuring licensed music from the 1980s, enhancing the game's atmosphere and immersion."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Grand Theft Auto: Vice City received critical acclaim for its storytelling, characters, and depiction of the 1980s. It is regarded as a cultural milestone in gaming."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "Vice City expanded on the success of GTA 3, further refining the open-world formula and setting new standards for narrative-driven gameplay and immersive environments."
+                        }
+                      ]
+                    }
+                  ]
+                  
+              },
+                
+              {
+                  "id": 4,
+                  "title": "Grand Theft Auto: San Andreas",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "PlayStation 2: October 26, 2004",
+                    "Microsoft Windows and Xbox: June 7, 2005",
+                    "Xbox 360: October 26, 2014",
+                    "iOS and Android: December 2013"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Grand Theft Auto: San Andreas is set in the fictional state of San Andreas, comprising three major cities: Los Santos (based on Los Angeles), San Fierro (based on San Francisco), and Las Venturas (based on Las Vegas)."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "The game follows Carl \"CJ\" Johnson, who returns to Los Santos after the murder of his mother. CJ becomes involved in gang warfare and strives to regain control of his family's criminal empire while uncovering the truth behind his mother's death."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Scope and Freedom",
+                          "paragraph": "San Andreas features a vast open-world environment that includes urban areas, countryside, and desert landscapes. Players have unprecedented freedom to explore and engage in various activities."
+                        },
+                        {
+                          "subHeading": "Gang and Territory System",
+                          "paragraph": "The game introduces a gang and territory system where CJ can recruit gang members, expand territory, and engage in gang wars to control areas of the map."
+                        },
+                        {
+                          "subHeading": "Customization and Progression",
+                          "paragraph": "Players can customize CJ's appearance, skills, and attributes through activities such as exercise, eating, and skill-building. Progression unlocks new abilities and gameplay options."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Grand Theft Auto: San Andreas received critical acclaim for its ambitious scope, narrative depth, and gameplay innovations. It remains one of the best-selling games of all time."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "San Andreas expanded the GTA series' scope and narrative complexity, setting benchmarks for open-world design and player freedom in gaming."
+                        }
+                      ]
+                    }
+                  ]
+                  
+              },
+                
+      
+              {
+                  "id": 5,
+                  "title": "Grand Theft Auto 4",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "PlayStation 3 and Xbox 360: April 29, 2008",
+                    "Microsoft Windows: December 2, 2008"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Grand Theft Auto 4 (GTA 4) is set in Liberty City, a more realistic and detailed interpretation of New York City. The game explores the life of Eastern European immigrant Niko Bellic as he navigates the criminal underworld."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Niko Bellic arrives in Liberty City to pursue the American Dream but becomes entangled in the city's criminal factions, family drama, and political intrigue."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Realism and Immersion",
+                          "paragraph": "GTA 4 introduces a more realistic and immersive open-world experience, featuring a dynamic living city with detailed pedestrian behavior and interaction."
+                        },
+                        {
+                          "subHeading": "Story and Missions",
+                          "paragraph": "The game offers a compelling narrative with complex characters and moral choices. Players engage in missions that blend action, driving, and strategic decision-making."
+                        },
+                        {
+                          "subHeading": "Multiplayer and Social Features",
+                          "paragraph": "GTA 4 includes multiplayer modes that allow players to engage in cooperative and competitive gameplay, as well as social features like in-game internet access and dating."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Grand Theft Auto 4 received critical acclaim for its realistic portrayal of urban life, deep narrative, and immersive gameplay. It was praised for pushing the boundaries of open-world gaming."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "GTA 4 is regarded as a landmark title in the series, setting new standards for storytelling and game mechanics in open-world action games. It remains influential in the gaming industry."
+                        }
+                      ]
+                    }
+                  ]
+                  
+              },
+      
+              {
+                  "id": 6,
+                  "title": "Grand Theft Auto V",
+                  "genre":"Action-Adventure",
+                  "releaseDates":[
+                      "PlayStation 3 and Xbox 360: September 17, 2013",
                       "PlayStation 4 and Xbox One: November 18, 2014",
                       "Microsoft Windows: April 14, 2015",
                       "PlayStation 5 and Xbox Series X/S: March 15, 2022"
-                    ],
-                    "body": [
+                  ],
+                  "body":[
                       {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Description",
-                            "paragraph": "Grand Theft Auto Online (GTA Online) is the multiplayer component of Grand Theft Auto 5, allowing players to explore the open-world environment of Los Santos and Blaine County with up to 30 players."
-                          },
-                          {
-                            "sub-heading": "Features",
-                            "paragraph": "Players can engage in various activities such as heists, missions, races, and other cooperative and competitive gameplay modes. They can also create and customize their characters, own properties, and participate in social interactions."
-                          }
-                        ]
+                          "heading":"Overview",
+                          "content":[
+                              {
+                                  "subHeading":"Setting",
+                                  "paragraph":"GTA V is set in the fictional state of San Andreas, which is based on Southern California. The game primarily takes place in the city of Los Santos, which is modeled after Los Angeles, and the surrounding countryside and desert areas."
+                              },
+                              {
+                                  "subHeading":"Plot",
+                                  "paragraph":"Michael De Santa: A retired bank robber living under witness protection.\nTrevor Philips: Michael’s former partner, a psychopathic and violent criminal.\nFranklin Clinton: A young gang member looking for opportunities to make money.\nThe story intertwines their personal struggles and their attempts to commit a series of heists. Players can switch between these characters both during missions and in free-roam mode."
+                              }
+                          ]
                       },
                       {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Open World",
-                            "paragraph": "GTA Online shares the open-world environment of GTA 5, featuring urban areas, countryside, and other diverse landscapes. Players can explore freely, engage in activities, and encounter dynamic events."
-                          },
-                          {
-                            "sub-heading": "Activities and Missions",
-                            "paragraph": "The game offers a wide range of activities, including heists that require strategic planning and execution. Players can team up with others or compete against them in races and other challenges."
-                          },
-                          {
-                            "sub-heading": "Character Progression",
-                            "paragraph": "Players can customize their characters' appearance, skills, and abilities. They earn money and reputation points by completing missions and activities, which can be used to purchase vehicles, weapons, and properties."
-                          }
-                        ]
+                          "heading":"Gameplay",
+                          "content":[
+                              {
+                                  "subHeading":"Perspective",
+                                  "paragraph":"GTA V can be played from both a third-person and a first-person perspective (introduced in the next-gen and PC versions)."
+                              },
+                              {
+                                  "subHeading":"Open World",
+                                  "paragraph":"The game features a vast open-world environment that players can explore freely. The world includes urban areas, countryside, mountains, and oceans, all of which are teeming with activities, missions, and random events."
+                              },
+                              {
+                                  "subHeading":"Missions and Heists",
+                                  "paragraph":"The main storyline is driven by missions, including complex heists that require careful planning and execution. Players can switch between the three protagonists to utilize their unique skills during missions."
+                              },
+                              {
+                                  "subHeading":"Activites",
+                                  "paragraph":"Beyond the main missions, players can engage in a variety of side activities such as:\nSports and leisure: Tennis, golf, cycling, hunting, and more.\nBusiness ventures: Buying properties and businesses to generate income.\nMini-games: Yoga, triathlons, and arcade games."
+                              },
+                              {
+                                  "subHeading":"Vehicles and Customization",
+                                  "paragraph":"Players can drive a wide range of vehicles including cars, bikes, boats, and aircraft. Customization options are extensive, allowing modifications to vehicles and weapons."
+                              }
+                          ]
                       },
                       {
-                        "heading": "Updates and Expansions",
-                        "content": [
-                          {
-                            "sub-heading": "Content Updates",
-                            "paragraph": "GTA Online receives regular updates and expansions that introduce new gameplay features, missions, vehicles, properties, and events. These updates often include themed content tied to real-world holidays or events."
-                          }
-                        ]
+                          "heading":"Online Mode",
+                          "content":[
+                              {
+                                  "subHeading":"Grand Theft Auto Online",
+                                  "paragraph":"Launched shortly after the release of GTA V, this is the online multiplayer mode of the game. It allows up to 30 players to explore the open world, participate in missions, races, and other activities, and create their own content. The online mode has been continuously updated with new content, including heists, businesses, and events."
+                              }
+                          ]
                       },
                       {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Popularity",
-                            "paragraph": "Grand Theft Auto Online has maintained a large and active player base since its launch, with millions of players participating in its online world regularly."
-                          },
-                          {
-                            "sub-heading": "Revenue",
-                            "paragraph": "The online mode has been highly lucrative for Rockstar Games, generating significant revenue through microtransactions for in-game currency, items, and expansions."
-                          }
-                        ]
+                          "heading":"Reception",
+                          "content":[
+                              {
+                                  "subHeading":"Critical Acclaim",
+                                  "paragraph":"GTA V received universal acclaim from critics, who praised its expansive open world, narrative depth, and character switching mechanic. It is considered one of the greatest video games of all time."
+                              },
+                              {
+                                  "subHeading":"Commercial Success",
+                                  "paragraph":"The game has been a massive commercial success, breaking several sales records and generating billions of dollars in revenue. It continues to be popular years after its initial release, with a large and active player base."
+                              }
+                          ]
                       },
                       {
-                        "heading": "Legacy",
-                        "content": [
-                          {
-                            "sub-heading": "Impact",
-                            "paragraph": "GTA Online has expanded the longevity and success of GTA 5, providing ongoing content and gameplay experiences that keep players engaged. It has influenced other developers in creating persistent online worlds within single-player games."
-                          },
-                          {
-                            "sub-heading": "Future",
-                            "paragraph": "As GTA Online continues to evolve, players anticipate further updates and expansions that will introduce new features and content. The mode remains integral to the overall GTA experience alongside single-player campaigns."
-                          }
-                        ]
+                          "heading":"Legacy",
+                          "content":[
+                              {
+                                  "subHeading":"",
+                                  "paragraph":"GTA V has had a significant impact on the gaming industry, influencing open-world game design and pushing the boundaries of what is possible in video game narratives and technical execution. Its success has solidified Rockstar Games' reputation as one of the leading developers in the industry."
+                              },
+                              {
+                                  "subHeading":"Future",
+                                  "paragraph": "While GTA V continues to receive updates, fans are eagerly anticipating the next installment in the series, GTA VI, which has been officially announced but not yet released."
+                              }
+                          ]
                       }
-                    ],
-                    "image": []
+                  ]
                 },
-        
-                {
-                    "id": 8,
-                    "title": "Grand Theft Auto 6",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "Expected: To be announced"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Grand Theft Auto 6 (GTA 6) is rumored to feature multiple cities and possibly a return to Vice City, a fictional representation of Miami, along with other locations."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Details about the plot of GTA 6 are scarce, but it is expected to delve into contemporary themes and social commentary, similar to previous installments."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Expected Features",
-                            "paragraph": "GTA 6 is anticipated to build upon the open-world mechanics of its predecessors, offering a vast and immersive environment for players to explore."
-                          },
-                          {
-                            "sub-heading": "Next-Generation Technology",
-                            "paragraph": "The game is likely to leverage advanced technology to enhance graphics, realism, and gameplay mechanics, providing a more immersive experience."
-                          },
-                          {
-                            "sub-heading": "Online Multiplayer",
-                            "paragraph": "Similar to GTA 5, GTA 6 may include an online multiplayer mode, allowing players to engage in cooperative and competitive gameplay in a shared open world."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Expectations",
-                        "content": [
-                          {
-                            "sub-heading": "Anticipation",
-                            "paragraph": "Fans are eagerly awaiting official announcements and trailers for GTA 6, hoping for updates on gameplay, storylines, and release dates."
-                          },
-                          {
-                            "sub-heading": "Industry Impact",
-                            "paragraph": "GTA 6 is expected to set new standards in open-world gaming and continue Rockstar Games' legacy of delivering innovative and compelling experiences."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                }                
-            ]
-        },
+      
+              {
+                  "id": 7,
+                  "title": "Grand Theft Auto Online",
+                  "genre": "Action-Adventure, Online Multiplayer",
+                  "releaseDates": [
+                    "PlayStation 3 and Xbox 360: October 1, 2013",
+                    "PlayStation 4 and Xbox One: November 18, 2014",
+                    "Microsoft Windows: April 14, 2015",
+                    "PlayStation 5 and Xbox Series X/S: March 15, 2022"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Description",
+                          "paragraph": "Grand Theft Auto Online (GTA Online) is the multiplayer component of Grand Theft Auto 5, allowing players to explore the open-world environment of Los Santos and Blaine County with up to 30 players."
+                        },
+                        {
+                          "subHeading": "Features",
+                          "paragraph": "Players can engage in various activities such as heists, missions, races, and other cooperative and competitive gameplay modes. They can also create and customize their characters, own properties, and participate in social interactions."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Open World",
+                          "paragraph": "GTA Online shares the open-world environment of GTA 5, featuring urban areas, countryside, and other diverse landscapes. Players can explore freely, engage in activities, and encounter dynamic events."
+                        },
+                        {
+                          "subHeading": "Activities and Missions",
+                          "paragraph": "The game offers a wide range of activities, including heists that require strategic planning and execution. Players can team up with others or compete against them in races and other challenges."
+                        },
+                        {
+                          "subHeading": "Character Progression",
+                          "paragraph": "Players can customize their characters' appearance, skills, and abilities. They earn money and reputation points by completing missions and activities, which can be used to purchase vehicles, weapons, and properties."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Updates and Expansions",
+                      "content": [
+                        {
+                          "subHeading": "Content Updates",
+                          "paragraph": "GTA Online receives regular updates and expansions that introduce new gameplay features, missions, vehicles, properties, and events. These updates often include themed content tied to real-world holidays or events."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Popularity",
+                          "paragraph": "Grand Theft Auto Online has maintained a large and active player base since its launch, with millions of players participating in its online world regularly."
+                        },
+                        {
+                          "subHeading": "Revenue",
+                          "paragraph": "The online mode has been highly lucrative for Rockstar Games, generating significant revenue through microtransactions for in-game currency, items, and expansions."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Legacy",
+                      "content": [
+                        {
+                          "subHeading": "Impact",
+                          "paragraph": "GTA Online has expanded the longevity and success of GTA 5, providing ongoing content and gameplay experiences that keep players engaged. It has influenced other developers in creating persistent online worlds within single-player games."
+                        },
+                        {
+                          "subHeading": "Future",
+                          "paragraph": "As GTA Online continues to evolve, players anticipate further updates and expansions that will introduce new features and content. The mode remains integral to the overall GTA experience alongside single-player campaigns."
+                        }
+                      ]
+                    }
+                  ]
+                  
+              },
+      
+              {
+                  "id": 8,
+                  "title": "Grand Theft Auto 6",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "Expected: To be announced"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Grand Theft Auto 6 (GTA 6) is rumored to feature multiple cities and possibly a return to Vice City, a fictional representation of Miami, along with other locations."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Details about the plot of GTA 6 are scarce, but it is expected to delve into contemporary themes and social commentary, similar to previous installments."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Expected Features",
+                          "paragraph": "GTA 6 is anticipated to build upon the open-world mechanics of its predecessors, offering a vast and immersive environment for players to explore."
+                        },
+                        {
+                          "subHeading": "Next-Generation Technology",
+                          "paragraph": "The game is likely to leverage advanced technology to enhance graphics, realism, and gameplay mechanics, providing a more immersive experience."
+                        },
+                        {
+                          "subHeading": "Online Multiplayer",
+                          "paragraph": "Similar to GTA 5, GTA 6 may include an online multiplayer mode, allowing players to engage in cooperative and competitive gameplay in a shared open world."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Expectations",
+                      "content": [
+                        {
+                          "subHeading": "Anticipation",
+                          "paragraph": "Fans are eagerly awaiting official announcements and trailers for GTA 6, hoping for updates on gameplay, storylines, and release dates."
+                        },
+                        {
+                          "subHeading": "Industry Impact",
+                          "paragraph": "GTA 6 is expected to set new standards in open-world gaming and continue Rockstar Games' legacy of delivering innovative and compelling experiences."
+                        }
+                      ]
+                    }
+                  ]
+                  
+              }                
+          ]
+      },
 
-        {
-            "game":"Red Dead Redemption",
-            "gameInfo":[
-                {
-                    "id": 0,
-                    "title": "Red Dead Revolver",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "PlayStation 2 and Xbox: May 4, 2004"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Red Dead Revolver is set in the American Old West during the late 19th century. The game features various frontier landscapes and towns."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players follow the story of Red Harlow, a bounty hunter on a quest for revenge against those who killed his family. The narrative unfolds through a series of missions and encounters with colorful characters."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Combat and Gunplay",
-                            "paragraph": "Red Dead Revolver focuses on third-person gunplay and combat mechanics, with a variety of weapons and abilities available to the player."
-                          },
-                          {
-                            "sub-heading": "Mission Structure",
-                            "paragraph": "The game offers a linear progression through a series of story-driven missions, each with its own objectives and challenges."
-                          },
-                          {
-                            "sub-heading": "Multiplayer",
-                            "paragraph": "Red Dead Revolver features multiplayer modes where players can engage in competitive and cooperative gameplay, adding replayability to the experience."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Red Dead Revolver received positive reviews for its engaging story, memorable characters, and solid gameplay mechanics. It laid the groundwork for the Red Dead series."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "As the first entry in the Red Dead series, Red Dead Revolver introduced players to the Wild West setting and established core gameplay elements that would evolve in later titles."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+      {
+          "game":"Red Dead Redemption",
+          "gameInfo":[
+              {
+                  "id": 0,
+                  "title": "Red Dead Revolver",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "PlayStation 2 and Xbox: May 4, 2004"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Red Dead Revolver is set in the American Old West during the late 19th century. The game features various frontier landscapes and towns."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players follow the story of Red Harlow, a bounty hunter on a quest for revenge against those who killed his family. The narrative unfolds through a series of missions and encounters with colorful characters."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Combat and Gunplay",
+                          "paragraph": "Red Dead Revolver focuses on third-person gunplay and combat mechanics, with a variety of weapons and abilities available to the player."
+                        },
+                        {
+                          "subHeading": "Mission Structure",
+                          "paragraph": "The game offers a linear progression through a series of story-driven missions, each with its own objectives and challenges."
+                        },
+                        {
+                          "subHeading": "Multiplayer",
+                          "paragraph": "Red Dead Revolver features multiplayer modes where players can engage in competitive and cooperative gameplay, adding replayability to the experience."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Red Dead Revolver received positive reviews for its engaging story, memorable characters, and solid gameplay mechanics. It laid the groundwork for the Red Dead series."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "As the first entry in the Red Dead series, Red Dead Revolver introduced players to the Wild West setting and established core gameplay elements that would evolve in later titles."
+                        }
+                      ]
+                    }
+                  ]
                   
-                  {
-                    "id": 1,
-                    "title": "Red Dead Redemption",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "PlayStation 3 and Xbox 360: May 18, 2010",
-                      "PlayStation Now: December 6, 2016",
-                      "Xbox One Backward Compatibility: July 8, 2016"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Red Dead Redemption is set in the early 20th century American frontier, with a focus on the declining era of the Wild West. The game primarily takes place in the fictionalized Western United States and Mexico."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players assume the role of John Marston, a former outlaw who is forced to hunt down his former gang members in exchange for his family's freedom. The narrative explores themes of redemption, justice, and the changing landscape of the West."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Open World and Exploration",
-                            "paragraph": "Red Dead Redemption features a vast open-world environment that players can freely explore on foot or horseback. The world includes towns, wilderness, and frontier settlements."
-                          },
-                          {
-                            "sub-heading": "Combat and Survival",
-                            "paragraph": "The game offers a blend of third-person shooter mechanics and survival elements, where players must manage resources and navigate dangerous encounters with outlaws and wildlife."
-                          },
-                          {
-                            "sub-heading": "Activities and Side Quests",
-                            "paragraph": "In addition to the main storyline, players can engage in side quests, hunting challenges, gambling, and other activities that immerse them in the Western setting."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Acclaim",
-                            "paragraph": "Red Dead Redemption received widespread acclaim for its narrative depth, character development, and immersive world. It is regarded as one of the greatest video games of its generation."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "The game's success solidified the Red Dead series as a pillar of narrative-driven open-world gaming, influencing subsequent titles and earning a dedicated fan base."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+                },
+                
+                {
+                  "id": 1,
+                  "title": "Red Dead Redemption",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "PlayStation 3 and Xbox 360: May 18, 2010",
+                    "PlayStation Now: December 6, 2016",
+                    "Xbox One Backward Compatibility: July 8, 2016"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Red Dead Redemption is set in the early 20th century American frontier, with a focus on the declining era of the Wild West. The game primarily takes place in the fictionalized Western United States and Mexico."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players assume the role of John Marston, a former outlaw who is forced to hunt down his former gang members in exchange for his family's freedom. The narrative explores themes of redemption, justice, and the changing landscape of the West."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Open World and Exploration",
+                          "paragraph": "Red Dead Redemption features a vast open-world environment that players can freely explore on foot or horseback. The world includes towns, wilderness, and frontier settlements."
+                        },
+                        {
+                          "subHeading": "Combat and Survival",
+                          "paragraph": "The game offers a blend of third-person shooter mechanics and survival elements, where players must manage resources and navigate dangerous encounters with outlaws and wildlife."
+                        },
+                        {
+                          "subHeading": "Activities and Side Quests",
+                          "paragraph": "In addition to the main storyline, players can engage in side quests, hunting challenges, gambling, and other activities that immerse them in the Western setting."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Acclaim",
+                          "paragraph": "Red Dead Redemption received widespread acclaim for its narrative depth, character development, and immersive world. It is regarded as one of the greatest video games of its generation."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "The game's success solidified the Red Dead series as a pillar of narrative-driven open-world gaming, influencing subsequent titles and earning a dedicated fan base."
+                        }
+                      ]
+                    }
+                  ]
+                  
+                },
 
-                  {
-                    "id": 2,
-                    "title": "Red Dead Redemption 2",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "PlayStation 4 and Xbox One: October 26, 2018",
-                      "Microsoft Windows: November 5, 2019",
-                      "Stadia: November 19, 2019"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Red Dead Redemption 2 is set in 1899, at the end of the Wild West era. The game unfolds across a fictionalized portrayal of the American heartland, including the states of New Hanover, Ambarino, Lemoyne, and more."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players follow Arthur Morgan, a member of the Van der Linde gang, led by Dutch Van der Linde. The narrative explores themes of loyalty, survival, and the consequences of a changing world."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Realism and Immersion",
-                            "paragraph": "Red Dead Redemption 2 emphasizes realism and immersion, with a focus on survival mechanics, realistic horse riding, and a dynamic open-world environment."
-                          },
-                          {
-                            "sub-heading": "Open-World Exploration",
-                            "paragraph": "Players can freely explore a vast and detailed frontier, engaging in activities such as hunting, fishing, and interacting with NPCs across different landscapes and ecosystems."
-                          },
-                          {
-                            "sub-heading": "Missions and Narrative",
-                            "paragraph": "The game offers a compelling main storyline with branching missions and choices that affect the outcome of Arthur Morgan's journey. Side quests and activities enrich the world-building and player experience."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Acclaim",
-                            "paragraph": "Red Dead Redemption 2 received critical acclaim for its narrative depth, technical achievements, and expansive world. It is considered one of the greatest video games ever made."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "The game expanded on the narrative and gameplay innovations of its predecessor, solidifying the Red Dead series as a benchmark for open-world storytelling and immersive gameplay."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  }
-            ]
-        },
+                {
+                  "id": 2,
+                  "title": "Red Dead Redemption 2",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "PlayStation 4 and Xbox One: October 26, 2018",
+                    "Microsoft Windows: November 5, 2019",
+                    "Stadia: November 19, 2019"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Red Dead Redemption 2 is set in 1899, at the end of the Wild West era. The game unfolds across a fictionalized portrayal of the American heartland, including the states of New Hanover, Ambarino, Lemoyne, and more."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players follow Arthur Morgan, a member of the Van der Linde gang, led by Dutch Van der Linde. The narrative explores themes of loyalty, survival, and the consequences of a changing world."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Realism and Immersion",
+                          "paragraph": "Red Dead Redemption 2 emphasizes realism and immersion, with a focus on survival mechanics, realistic horse riding, and a dynamic open-world environment."
+                        },
+                        {
+                          "subHeading": "Open-World Exploration",
+                          "paragraph": "Players can freely explore a vast and detailed frontier, engaging in activities such as hunting, fishing, and interacting with NPCs across different landscapes and ecosystems."
+                        },
+                        {
+                          "subHeading": "Missions and Narrative",
+                          "paragraph": "The game offers a compelling main storyline with branching missions and choices that affect the outcome of Arthur Morgan's journey. Side quests and activities enrich the world-building and player experience."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Acclaim",
+                          "paragraph": "Red Dead Redemption 2 received critical acclaim for its narrative depth, technical achievements, and expansive world. It is considered one of the greatest video games ever made."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "The game expanded on the narrative and gameplay innovations of its predecessor, solidifying the Red Dead series as a benchmark for open-world storytelling and immersive gameplay."
+                        }
+                      ]
+                    }
+                  ]
+                  
+                }
+          ]
+      },
 
-        {
-            "game":"L. A. Noire",
-            "gameInfo":[
-                {
-                    "id": 0,
-                    "title": "L.A. Noire",
-                    "genre": "Action-Adventure, Detective",
-                    "release-dates": [
-                      "PlayStation 3 and Xbox 360: May 17, 2011",
-                      "Microsoft Windows: November 8, 2011",
-                      "Nintendo Switch, PlayStation 4, Xbox One: November 14, 2017"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "L.A. Noire is set in 1947 Los Angeles, showcasing a meticulously recreated post-World War II urban environment, complete with landmarks and historic locations."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players assume the role of Cole Phelps, a detective rising through the ranks of the LAPD. The game follows Phelps as he investigates a series of cases inspired by real-life crimes."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Investigation and Interrogation",
-                            "paragraph": "L.A. Noire focuses on detective work, including crime scene investigation, questioning witnesses and suspects, and solving puzzles to uncover the truth."
-                          },
-                          {
-                            "sub-heading": "Action and Exploration",
-                            "paragraph": "Players can explore a detailed open-world Los Angeles, driving period-accurate vehicles and interacting with NPCs to gather clues and progress in cases."
-                          },
-                          {
-                            "sub-heading": "Realistic Facial Animation",
-                            "paragraph": "The game utilizes MotionScan technology for facial animation, allowing for detailed expressions that aid in determining the truthfulness of suspects during interrogations."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "L.A. Noire received praise for its narrative depth, attention to historical detail, and innovative gameplay mechanics. It was noted for blending detective work with action-adventure elements."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "The game influenced detective genre video games, showcasing a unique approach to storytelling and investigation mechanics. It remains a standout title in Rockstar Games' portfolio."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+      {
+          "game":"L. A. Noire",
+          "gameInfo":[
+              {
+                  "id": 0,
+                  "title": "L.A. Noire",
+                  "genre": "Action-Adventure, Detective",
+                  "releaseDates": [
+                    "PlayStation 3 and Xbox 360: May 17, 2011",
+                    "Microsoft Windows: November 8, 2011",
+                    "Nintendo Switch, PlayStation 4, Xbox One: November 14, 2017"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "L.A. Noire is set in 1947 Los Angeles, showcasing a meticulously recreated post-World War II urban environment, complete with landmarks and historic locations."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players assume the role of Cole Phelps, a detective rising through the ranks of the LAPD. The game follows Phelps as he investigates a series of cases inspired by real-life crimes."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Investigation and Interrogation",
+                          "paragraph": "L.A. Noire focuses on detective work, including crime scene investigation, questioning witnesses and suspects, and solving puzzles to uncover the truth."
+                        },
+                        {
+                          "subHeading": "Action and Exploration",
+                          "paragraph": "Players can explore a detailed open-world Los Angeles, driving period-accurate vehicles and interacting with NPCs to gather clues and progress in cases."
+                        },
+                        {
+                          "subHeading": "Realistic Facial Animation",
+                          "paragraph": "The game utilizes MotionScan technology for facial animation, allowing for detailed expressions that aid in determining the truthfulness of suspects during interrogations."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "L.A. Noire received praise for its narrative depth, attention to historical detail, and innovative gameplay mechanics. It was noted for blending detective work with action-adventure elements."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "The game influenced detective genre video games, showcasing a unique approach to storytelling and investigation mechanics. It remains a standout title in Rockstar Games' portfolio."
+                        }
+                      ]
+                    }
+                  ]
                   
-                  {
-                    "id": 1,
-                    "title": "L.A. Noire: The VR Case Files",
-                    "genre": "Action-Adventure, Detective, Virtual Reality",
-                    "release-dates": [
-                      "PlayStation VR: December 6, 2019",
-                      "HTC Vive: December 15, 2017",
-                      "Oculus Rift: December 15, 2017"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "L.A. Noire: The VR Case Files is set in the same 1940s Los Angeles as the original game, reimagined for virtual reality. Players experience the city and its cases in a more immersive format."
-                          },
-                          {
-                            "sub-heading": "Gameplay",
-                            "paragraph": "The VR Case Files retains the investigative gameplay of the original, allowing players to interact with environments, examine clues, and interrogate suspects in a fully immersive VR environment."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "VR Experience",
-                        "content": [
-                          {
-                            "sub-heading": "Immersive Interactions",
-                            "paragraph": "Players can physically manipulate objects, handle evidence, and use motion-based controls for actions like driving and shooting, enhancing the immersion and realism of detective work."
-                          },
-                          {
-                            "sub-heading": "Case Selection",
-                            "paragraph": "The game features a selection of cases from the original L.A. Noire, adapted to suit the VR experience. Each case offers unique challenges and investigative opportunities."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "L.A. Noire: The VR Case Files received positive reviews for its adaptation of the original game's mechanics into virtual reality. It was praised for its immersion and innovative use of VR technology."
-                          },
-                          {
-                            "sub-heading": "Impact",
-                            "paragraph": "The VR Case Files expanded L.A. Noire's gameplay into the VR space, demonstrating how virtual reality can enhance narrative-driven and detective-focused experiences."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  }                  
-            ]
-        },
-        
-        {
-            "game":"Bully",
-            "gameInfo":[
+                },
+                
                 {
-                    "id": 0,
-                    "title": "Bully",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "PlayStation 2: October 17, 2006",
-                      "Xbox 360, Wii: March 4, 2008",
-                      "Microsoft Windows: October 21, 2008",
-                      "iOS and Android: December 8, 2016"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Bully is set in the fictional town of Bullworth, focusing on the life of a teenage delinquent, Jimmy Hopkins, who navigates the challenges of a troubled boarding school."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players control Jimmy as he tackles various cliques, teachers, and authority figures while trying to assert his dominance and navigate the social hierarchy of Bullworth Academy."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "School Environment",
-                            "paragraph": "The game features an open-world school environment where players attend classes, complete missions, engage in mini-games, and interact with NPCs."
-                          },
-                          {
-                            "sub-heading": "Social Interactions",
-                            "paragraph": "Jimmy can build relationships with other characters, forming alliances or rivalries that impact gameplay and story outcomes."
-                          },
-                          {
-                            "sub-heading": "Activities and Mini-Games",
-                            "paragraph": "Players can participate in various activities such as classes, sports, pranks, and even attend parties, adding depth to the school-life simulation."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Bully received positive reviews for its unique setting, engaging gameplay, and narrative depth, despite initial controversies. It was praised for tackling mature themes in a school setting."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "The game garnered a dedicated fanbase and is considered a cult classic. It showcased Rockstar Games' ability to create compelling narratives and immersive worlds outside of the GTA series."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+                  "id": 1,
+                  "title": "L.A. Noire: The VR Case Files",
+                  "genre": "Action-Adventure, Detective, Virtual Reality",
+                  "releaseDates": [
+                    "PlayStation VR: December 6, 2019",
+                    "HTC Vive: December 15, 2017",
+                    "Oculus Rift: December 15, 2017"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "L.A. Noire: The VR Case Files is set in the same 1940s Los Angeles as the original game, reimagined for virtual reality. Players experience the city and its cases in a more immersive format."
+                        },
+                        {
+                          "subHeading": "Gameplay",
+                          "paragraph": "The VR Case Files retains the investigative gameplay of the original, allowing players to interact with environments, examine clues, and interrogate suspects in a fully immersive VR environment."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "VR Experience",
+                      "content": [
+                        {
+                          "subHeading": "Immersive Interactions",
+                          "paragraph": "Players can physically manipulate objects, handle evidence, and use motion-based controls for actions like driving and shooting, enhancing the immersion and realism of detective work."
+                        },
+                        {
+                          "subHeading": "Case Selection",
+                          "paragraph": "The game features a selection of cases from the original L.A. Noire, adapted to suit the VR experience. Each case offers unique challenges and investigative opportunities."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "L.A. Noire: The VR Case Files received positive reviews for its adaptation of the original game's mechanics into virtual reality. It was praised for its immersion and innovative use of VR technology."
+                        },
+                        {
+                          "subHeading": "Impact",
+                          "paragraph": "The VR Case Files expanded L.A. Noire's gameplay into the VR space, demonstrating how virtual reality can enhance narrative-driven and detective-focused experiences."
+                        }
+                      ]
+                    }
+                  ]
                   
-                  {
-                    "id": 1,
-                    "title": "Bully: Scholarship Edition",
-                    "genre": "Action-Adventure",
-                    "release-dates": [
-                      "Wii and Xbox 360: March 4, 2008",
-                      "Microsoft Windows: October 21, 2008"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Enhanced Edition",
-                            "paragraph": "Bully: Scholarship Edition is an enhanced version of the original game, featuring improved graphics, additional missions, characters, and classes."
-                          },
-                          {
-                            "sub-heading": "Setting and Plot",
-                            "paragraph": "The game retains the setting of Bullworth Academy but introduces new storylines and challenges for Jimmy Hopkins as he navigates through the school year."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Additional Content",
-                            "paragraph": "Scholarship Edition includes new classes, such as Biology and Music, along with new characters and missions that expand upon Jimmy's adventures."
-                          },
-                          {
-                            "sub-heading": "Improved Mechanics",
-                            "paragraph": "The game refines gameplay mechanics and adds new features, enhancing the overall experience of exploring Bullworth Academy and interacting with its inhabitants."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Bully: Scholarship Edition received positive reviews for its enhancements and additions to the original game. It was praised for maintaining the charm and depth of the original while offering new content."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "The Scholarship Edition further solidified Bully's status as a beloved title, showcasing Rockstar Games' commitment to enhancing their games for new platforms."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  }
-            ]
-        },
+                }                  
+          ]
+      },
+      
+      {
+          "game":"Bully",
+          "gameInfo":[
+              {
+                  "id": 0,
+                  "title": "Bully",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "PlayStation 2: October 17, 2006",
+                    "Xbox 360, Wii: March 4, 2008",
+                    "Microsoft Windows: October 21, 2008",
+                    "iOS and Android: December 8, 2016"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Bully is set in the fictional town of Bullworth, focusing on the life of a teenage delinquent, Jimmy Hopkins, who navigates the challenges of a troubled boarding school."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players control Jimmy as he tackles various cliques, teachers, and authority figures while trying to assert his dominance and navigate the social hierarchy of Bullworth Academy."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "School Environment",
+                          "paragraph": "The game features an open-world school environment where players attend classes, complete missions, engage in mini-games, and interact with NPCs."
+                        },
+                        {
+                          "subHeading": "Social Interactions",
+                          "paragraph": "Jimmy can build relationships with other characters, forming alliances or rivalries that impact gameplay and story outcomes."
+                        },
+                        {
+                          "subHeading": "Activities and Mini-Games",
+                          "paragraph": "Players can participate in various activities such as classes, sports, pranks, and even attend parties, adding depth to the school-life simulation."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Bully received positive reviews for its unique setting, engaging gameplay, and narrative depth, despite initial controversies. It was praised for tackling mature themes in a school setting."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "The game garnered a dedicated fanbase and is considered a cult classic. It showcased Rockstar Games' ability to create compelling narratives and immersive worlds outside of the GTA series."
+                        }
+                      ]
+                    }
+                  ]
+                  
+                },
+                
+                {
+                  "id": 1,
+                  "title": "Bully: Scholarship Edition",
+                  "genre": "Action-Adventure",
+                  "releaseDates": [
+                    "Wii and Xbox 360: March 4, 2008",
+                    "Microsoft Windows: October 21, 2008"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Enhanced Edition",
+                          "paragraph": "Bully: Scholarship Edition is an enhanced version of the original game, featuring improved graphics, additional missions, characters, and classes."
+                        },
+                        {
+                          "subHeading": "Setting and Plot",
+                          "paragraph": "The game retains the setting of Bullworth Academy but introduces new storylines and challenges for Jimmy Hopkins as he navigates through the school year."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Additional Content",
+                          "paragraph": "Scholarship Edition includes new classes, such as Biology and Music, along with new characters and missions that expand upon Jimmy's adventures."
+                        },
+                        {
+                          "subHeading": "Improved Mechanics",
+                          "paragraph": "The game refines gameplay mechanics and adds new features, enhancing the overall experience of exploring Bullworth Academy and interacting with its inhabitants."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Bully: Scholarship Edition received positive reviews for its enhancements and additions to the original game. It was praised for maintaining the charm and depth of the original while offering new content."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "The Scholarship Edition further solidified Bully's status as a beloved title, showcasing Rockstar Games' commitment to enhancing their games for new platforms."
+                        }
+                      ]
+                    }
+                  ]
+                  
+                }
+          ]
+      },
 
-        {
-            "game":"Midnight Club",
-            "gameInfo":[
+      {
+          "game":"Midnight Club",
+          "gameInfo":[
+              {
+                  "id": 0,
+                  "title": "Midnight Club: Street Racing",
+                  "genre": "Racing",
+                  "releaseDates": [
+                    "PlayStation 2: October 26, 2000",
+                    "Game Boy Advance: November 19, 2001",
+                    "PlayStation Network: April 24, 2012"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Midnight Club: Street Racing is set in an open-world interpretation of New York City, where players participate in illegal street races and earn reputation points."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players control customizable vehicles and race against other street racers to climb the ranks and become the best racer in the city."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Open-World Racing",
+                          "paragraph": "The game offers a non-linear progression system where players can explore the city, discover hidden shortcuts, and challenge rival racers in dynamic street races."
+                        },
+                        {
+                          "subHeading": "Customization",
+                          "paragraph": "Players can customize their vehicles with performance upgrades and visual modifications to gain an edge in races."
+                        },
+                        {
+                          "subHeading": "Reputation System",
+                          "paragraph": "Winning races and completing challenges increases the player's reputation, unlocking new cars and races across the city."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Midnight Club: Street Racing received positive reviews for its innovative open-world racing mechanics and challenging gameplay. It set the foundation for future installments in the series."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "As the inaugural title in the Midnight Club series, Street Racing established the series' reputation for fast-paced, open-world street racing games."
+                        }
+                      ]
+                    }
+                  ]
+                  
+                },
+                
                 {
-                    "id": 0,
-                    "title": "Midnight Club: Street Racing",
-                    "genre": "Racing",
-                    "release-dates": [
-                      "PlayStation 2: October 26, 2000",
-                      "Game Boy Advance: November 19, 2001",
-                      "PlayStation Network: April 24, 2012"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Midnight Club: Street Racing is set in an open-world interpretation of New York City, where players participate in illegal street races and earn reputation points."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players control customizable vehicles and race against other street racers to climb the ranks and become the best racer in the city."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Open-World Racing",
-                            "paragraph": "The game offers a non-linear progression system where players can explore the city, discover hidden shortcuts, and challenge rival racers in dynamic street races."
-                          },
-                          {
-                            "sub-heading": "Customization",
-                            "paragraph": "Players can customize their vehicles with performance upgrades and visual modifications to gain an edge in races."
-                          },
-                          {
-                            "sub-heading": "Reputation System",
-                            "paragraph": "Winning races and completing challenges increases the player's reputation, unlocking new cars and races across the city."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Midnight Club: Street Racing received positive reviews for its innovative open-world racing mechanics and challenging gameplay. It set the foundation for future installments in the series."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "As the inaugural title in the Midnight Club series, Street Racing established the series' reputation for fast-paced, open-world street racing games."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+                  "id": 1,
+                  "title": "Midnight Club II",
+                  "genre": "Racing",
+                  "releaseDates": [
+                    "PlayStation 2, Xbox: April 9, 2003",
+                    "Microsoft Windows: June 3, 2003"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Midnight Club II takes place in multiple real-world cities, including Los Angeles, Paris, and Tokyo, offering a diverse racing experience."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players compete in underground street races against skilled AI opponents and can earn reputation by winning races and completing challenges."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "City Environments",
+                          "paragraph": "Each city in Midnight Club II features unique landmarks, traffic patterns, and shortcuts that players can utilize to gain an advantage in races."
+                        },
+                        {
+                          "subHeading": "Vehicle Customization",
+                          "paragraph": "Players can customize their vehicles with performance upgrades and visual enhancements, allowing for personalized racing experiences."
+                        },
+                        {
+                          "subHeading": "Multiplayer",
+                          "paragraph": "The game includes multiplayer modes where players can compete against each other in various race types and locations."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Midnight Club II received positive reviews for its expansive city environments, fast-paced gameplay, and multiplayer features. It expanded on the original game's formula while maintaining its core appeal."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "The sequel solidified Midnight Club's reputation as a leading racing franchise, known for its open-world racing mechanics and competitive multiplayer."
+                        }
+                      ]
+                    }
+                  ]
                   
-                  {
-                    "id": 1,
-                    "title": "Midnight Club II",
-                    "genre": "Racing",
-                    "release-dates": [
-                      "PlayStation 2, Xbox: April 9, 2003",
-                      "Microsoft Windows: June 3, 2003"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Midnight Club II takes place in multiple real-world cities, including Los Angeles, Paris, and Tokyo, offering a diverse racing experience."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players compete in underground street races against skilled AI opponents and can earn reputation by winning races and completing challenges."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "City Environments",
-                            "paragraph": "Each city in Midnight Club II features unique landmarks, traffic patterns, and shortcuts that players can utilize to gain an advantage in races."
-                          },
-                          {
-                            "sub-heading": "Vehicle Customization",
-                            "paragraph": "Players can customize their vehicles with performance upgrades and visual enhancements, allowing for personalized racing experiences."
-                          },
-                          {
-                            "sub-heading": "Multiplayer",
-                            "paragraph": "The game includes multiplayer modes where players can compete against each other in various race types and locations."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Midnight Club II received positive reviews for its expansive city environments, fast-paced gameplay, and multiplayer features. It expanded on the original game's formula while maintaining its core appeal."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "The sequel solidified Midnight Club's reputation as a leading racing franchise, known for its open-world racing mechanics and competitive multiplayer."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+                },
+                
+                {
+                  "id": 2,
+                  "title": "Midnight Club 3: Dub Edition",
+                  "genre": "Racing",
+                  "releaseDates": [
+                    "PlayStation 2, Xbox: April 11, 2005",
+                    "PlayStation Portable: June 27, 2005"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Midnight Club 3: Dub Edition expands the series' focus on customizable vehicles and high-speed street racing in urban environments."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players compete in street races across Atlanta, Detroit, and San Diego, aiming to earn respect and rise through the ranks of the racing community."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Vehicle Customization",
+                          "paragraph": "The game features extensive vehicle customization options, allowing players to modify their cars with aftermarket parts, custom paint jobs, and performance upgrades."
+                        },
+                        {
+                          "subHeading": "Open-World Racing",
+                          "paragraph": "Players can explore each city, discovering shortcuts and hidden routes to gain an advantage in races against AI opponents or online competitors."
+                        },
+                        {
+                          "subHeading": "Soundtrack and Culture",
+                          "paragraph": "Dub Edition incorporates a hip-hop soundtrack and car culture themes, enhancing the street racing atmosphere and player immersion."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Midnight Club 3: Dub Edition received positive reviews for its deep vehicle customization, expansive city environments, and engaging street racing gameplay. It expanded on its predecessors' strengths while introducing new features."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "Dub Edition further solidified Midnight Club's status as a premier racing series, known for its customizable vehicles, open-world racing, and urban culture influences."
+                        }
+                      ]
+                    }
+                  ]
                   
-                  {
-                    "id": 2,
-                    "title": "Midnight Club 3: Dub Edition",
-                    "genre": "Racing",
-                    "release-dates": [
-                      "PlayStation 2, Xbox: April 11, 2005",
-                      "PlayStation Portable: June 27, 2005"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Midnight Club 3: Dub Edition expands the series' focus on customizable vehicles and high-speed street racing in urban environments."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players compete in street races across Atlanta, Detroit, and San Diego, aiming to earn respect and rise through the ranks of the racing community."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Vehicle Customization",
-                            "paragraph": "The game features extensive vehicle customization options, allowing players to modify their cars with aftermarket parts, custom paint jobs, and performance upgrades."
-                          },
-                          {
-                            "sub-heading": "Open-World Racing",
-                            "paragraph": "Players can explore each city, discovering shortcuts and hidden routes to gain an advantage in races against AI opponents or online competitors."
-                          },
-                          {
-                            "sub-heading": "Soundtrack and Culture",
-                            "paragraph": "Dub Edition incorporates a hip-hop soundtrack and car culture themes, enhancing the street racing atmosphere and player immersion."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Midnight Club 3: Dub Edition received positive reviews for its deep vehicle customization, expansive city environments, and engaging street racing gameplay. It expanded on its predecessors' strengths while introducing new features."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "Dub Edition further solidified Midnight Club's status as a premier racing series, known for its customizable vehicles, open-world racing, and urban culture influences."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+                },
+                
+                {
+                  "id": 3,
+                  "title": "Midnight Club 3: Dub Edition Remix",
+                  "genre": "Racing",
+                  "releaseDates": [
+                    "PlayStation 2, Xbox: March 13, 2006"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Enhanced Edition",
+                          "paragraph": "Midnight Club 3: Dub Edition Remix is an enhanced version of Midnight Club 3: Dub Edition, featuring additional content and improvements."
+                        },
+                        {
+                          "subHeading": "Content Additions",
+                          "paragraph": "Remix includes new cars, motorcycles, music tracks, and race modes, providing an expanded experience for fans of the original game."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "New Vehicles and Customization",
+                          "paragraph": "Players can race with new vehicles, including motorcycles, and customize them with a variety of aftermarket parts, decals, and paint schemes."
+                        },
+                        {
+                          "subHeading": "Challenge Modes",
+                          "paragraph": "The game introduces new challenge modes that test players' racing skills and knowledge of the city layouts, offering rewards for completing difficult tasks."
+                        },
+                        {
+                          "subHeading": "Online Multiplayer",
+                          "paragraph": "Remix enhances the multiplayer experience with new online race modes, allowing players to compete against friends or strangers in dynamic street races."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Midnight Club 3: Dub Edition Remix received positive reviews for its enhanced content, improved gameplay mechanics, and multiplayer features. It was praised for building upon the foundation of Dub Edition."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "Remix extended Midnight Club 3's legacy with new content and features, maintaining the series' reputation for innovative racing gameplay and extensive vehicle customization."
+                        }
+                      ]
+                    }
+                  ]
                   
-                  {
-                    "id": 3,
-                    "title": "Midnight Club 3: Dub Edition Remix",
-                    "genre": "Racing",
-                    "release-dates": [
-                      "PlayStation 2, Xbox: March 13, 2006"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Enhanced Edition",
-                            "paragraph": "Midnight Club 3: Dub Edition Remix is an enhanced version of Midnight Club 3: Dub Edition, featuring additional content and improvements."
-                          },
-                          {
-                            "sub-heading": "Content Additions",
-                            "paragraph": "Remix includes new cars, motorcycles, music tracks, and race modes, providing an expanded experience for fans of the original game."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "New Vehicles and Customization",
-                            "paragraph": "Players can race with new vehicles, including motorcycles, and customize them with a variety of aftermarket parts, decals, and paint schemes."
-                          },
-                          {
-                            "sub-heading": "Challenge Modes",
-                            "paragraph": "The game introduces new challenge modes that test players' racing skills and knowledge of the city layouts, offering rewards for completing difficult tasks."
-                          },
-                          {
-                            "sub-heading": "Online Multiplayer",
-                            "paragraph": "Remix enhances the multiplayer experience with new online race modes, allowing players to compete against friends or strangers in dynamic street races."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Midnight Club 3: Dub Edition Remix received positive reviews for its enhanced content, improved gameplay mechanics, and multiplayer features. It was praised for building upon the foundation of Dub Edition."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "Remix extended Midnight Club 3's legacy with new content and features, maintaining the series' reputation for innovative racing gameplay and extensive vehicle customization."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+                },
+                
+                {
+                  "id": 4,
+                  "title": "Midnight Club: Los Angeles",
+                  "genre": "Racing",
+                  "releaseDates": [
+                    "PlayStation 3, Xbox 360: October 20, 2008",
+                    "PlayStation Portable: October 20, 2008",
+                    "Microsoft Windows: December 15, 2010"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Midnight Club: Los Angeles is set in an open-world recreation of Los Angeles, featuring an expansive city map and detailed environments."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "Players compete in illegal street races and challenges across Los Angeles, aiming to build their reputation as the city's top racer."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Open-World Racing",
+                          "paragraph": "The game offers a seamless open-world experience where players can explore Los Angeles freely, discovering shortcuts and hidden routes."
+                        },
+                        {
+                          "subHeading": "Vehicle Customization",
+                          "paragraph": "Players can customize their vehicles with performance upgrades and visual modifications, adapting them for different race types and challenges."
+                        },
+                        {
+                          "subHeading": "Multiplayer",
+                          "paragraph": "Los Angeles features online multiplayer modes where players can compete against others in various race types, adding depth to the competitive racing experience."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Midnight Club: Los Angeles received positive reviews for its detailed city environment, extensive customization options, and engaging multiplayer modes. It expanded on the series' strengths while introducing new features."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "As a standout title in the Midnight Club series, Los Angeles solidified the franchise's reputation for open-world racing and competitive multiplayer, setting benchmarks for future entries."
+                        }
+                      ]
+                    }
+                  ]
                   
-                  {
-                    "id": 4,
-                    "title": "Midnight Club: Los Angeles",
-                    "genre": "Racing",
-                    "release-dates": [
-                      "PlayStation 3, Xbox 360: October 20, 2008",
-                      "PlayStation Portable: October 20, 2008",
-                      "Microsoft Windows: December 15, 2010"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Midnight Club: Los Angeles is set in an open-world recreation of Los Angeles, featuring an expansive city map and detailed environments."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "Players compete in illegal street races and challenges across Los Angeles, aiming to build their reputation as the city's top racer."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Open-World Racing",
-                            "paragraph": "The game offers a seamless open-world experience where players can explore Los Angeles freely, discovering shortcuts and hidden routes."
-                          },
-                          {
-                            "sub-heading": "Vehicle Customization",
-                            "paragraph": "Players can customize their vehicles with performance upgrades and visual modifications, adapting them for different race types and challenges."
-                          },
-                          {
-                            "sub-heading": "Multiplayer",
-                            "paragraph": "Los Angeles features online multiplayer modes where players can compete against others in various race types, adding depth to the competitive racing experience."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Midnight Club: Los Angeles received positive reviews for its detailed city environment, extensive customization options, and engaging multiplayer modes. It expanded on the series' strengths while introducing new features."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "As a standout title in the Midnight Club series, Los Angeles solidified the franchise's reputation for open-world racing and competitive multiplayer, setting benchmarks for future entries."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+                },
+                
+                {
+                  "id": 5,
+                  "title": "Midnight Club: Los Angeles Remix",
+                  "genre": "Racing",
+                  "releaseDates": [
+                    "PlayStation Portable: October 20, 2008"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Portable Experience",
+                          "paragraph": "Midnight Club: Los Angeles Remix is a portable version of Midnight Club: Los Angeles, tailored for the PlayStation Portable (PSP)."
+                        },
+                        {
+                          "subHeading": "Gameplay",
+                          "paragraph": "Players experience the open-world racing of Los Angeles on the PSP, featuring similar mechanics to the console version but optimized for handheld play."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Features",
+                      "content": [
+                        {
+                          "subHeading": "Content Adaptation",
+                          "paragraph": "Remix includes a condensed version of the Los Angeles map and race types, offering a portable racing experience without compromising on core gameplay elements."
+                        },
+                        {
+                          "subHeading": "Multiplayer and Challenges",
+                          "paragraph": "The game supports multiplayer races via ad-hoc connectivity, allowing PSP players to compete against each other in street races and challenges."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Midnight Club: Los Angeles Remix received positive reviews for bringing the open-world racing experience of Los Angeles to the PSP platform. It maintained the series' reputation for engaging gameplay and extensive customization."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "Remix expanded the Midnight Club series' reach by offering a portable version of its acclaimed console counterpart, catering to handheld gaming enthusiasts while upholding the franchise's standards."
+                        }
+                      ]
+                    }
+                  ]
                   
-                  {
-                    "id": 5,
-                    "title": "Midnight Club: Los Angeles Remix",
-                    "genre": "Racing",
-                    "release-dates": [
-                      "PlayStation Portable: October 20, 2008"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Portable Experience",
-                            "paragraph": "Midnight Club: Los Angeles Remix is a portable version of Midnight Club: Los Angeles, tailored for the PlayStation Portable (PSP)."
-                          },
-                          {
-                            "sub-heading": "Gameplay",
-                            "paragraph": "Players experience the open-world racing of Los Angeles on the PSP, featuring similar mechanics to the console version but optimized for handheld play."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Features",
-                        "content": [
-                          {
-                            "sub-heading": "Content Adaptation",
-                            "paragraph": "Remix includes a condensed version of the Los Angeles map and race types, offering a portable racing experience without compromising on core gameplay elements."
-                          },
-                          {
-                            "sub-heading": "Multiplayer and Challenges",
-                            "paragraph": "The game supports multiplayer races via ad-hoc connectivity, allowing PSP players to compete against each other in street races and challenges."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Midnight Club: Los Angeles Remix received positive reviews for bringing the open-world racing experience of Los Angeles to the PSP platform. It maintained the series' reputation for engaging gameplay and extensive customization."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "Remix expanded the Midnight Club series' reach by offering a portable version of its acclaimed console counterpart, catering to handheld gaming enthusiasts while upholding the franchise's standards."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  }
-            ]
-        },
+                }
+          ]
+      },
 
-        {
-            "game":"Max Payne",
-            "gameInfo":[
+      {
+          "game":"Max Payne",
+          "gameInfo":[
+              {
+                  "id": 0,
+                  "title": "Max Payne",
+                  "genre": "Action, Third-person shooter",
+                  "releaseDates": [
+                    "Microsoft Windows: July 2001",
+                    "PlayStation 2 and Xbox: December 2001",
+                    "Game Boy Advance: December 2003"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Max Payne is set in New York City, following the titular character Max Payne, a former NYPD detective turned vigilante."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "The game centers on Max's quest for revenge against those responsible for the murder of his family, navigating through a gritty, noir-inspired narrative."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Action-Packed Gameplay",
+                          "paragraph": "Max Payne features intense third-person shooter gameplay with a focus on bullet time mechanics, allowing players to slow down time for precise aiming and tactical maneuvers."
+                        },
+                        {
+                          "subHeading": "Narrative-Driven Experience",
+                          "paragraph": "Players progress through a linear storyline, encountering various challenges and enemies while uncovering Max's dark past and motivations."
+                        },
+                        {
+                          "subHeading": "Graphic Novel Presentation",
+                          "paragraph": "The game innovatively uses graphic novel-style cutscenes and narration to enhance storytelling and atmosphere, blending gameplay with cinematic elements."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Acclaim",
+                          "paragraph": "Max Payne received critical acclaim for its gripping storyline, innovative gameplay mechanics, and atmospheric presentation. It set new standards for narrative-driven action games."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "As a landmark title, Max Payne influenced the shooter genre with its cinematic storytelling and bullet time mechanics, spawning sequels and adaptations."
+                        }
+                      ]
+                    }
+                  ]
+                  
+                },
+                
                 {
-                    "id": 0,
-                    "title": "Max Payne",
-                    "genre": "Action, Third-person shooter",
-                    "release-dates": [
-                      "Microsoft Windows: July 2001",
-                      "PlayStation 2 and Xbox: December 2001",
-                      "Game Boy Advance: December 2003"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Max Payne is set in New York City, following the titular character Max Payne, a former NYPD detective turned vigilante."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "The game centers on Max's quest for revenge against those responsible for the murder of his family, navigating through a gritty, noir-inspired narrative."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Action-Packed Gameplay",
-                            "paragraph": "Max Payne features intense third-person shooter gameplay with a focus on bullet time mechanics, allowing players to slow down time for precise aiming and tactical maneuvers."
-                          },
-                          {
-                            "sub-heading": "Narrative-Driven Experience",
-                            "paragraph": "Players progress through a linear storyline, encountering various challenges and enemies while uncovering Max's dark past and motivations."
-                          },
-                          {
-                            "sub-heading": "Graphic Novel Presentation",
-                            "paragraph": "The game innovatively uses graphic novel-style cutscenes and narration to enhance storytelling and atmosphere, blending gameplay with cinematic elements."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Acclaim",
-                            "paragraph": "Max Payne received critical acclaim for its gripping storyline, innovative gameplay mechanics, and atmospheric presentation. It set new standards for narrative-driven action games."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "As a landmark title, Max Payne influenced the shooter genre with its cinematic storytelling and bullet time mechanics, spawning sequels and adaptations."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+                  "id": 1,
+                  "title": "Max Payne 2: The Fall of Max Payne",
+                  "genre": "Action, Third-person shooter",
+                  "releaseDates": [
+                    "Microsoft Windows and Xbox: October 2003",
+                    "PlayStation 2: November 2003"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Continuation of Max's Story",
+                          "paragraph": "Max Payne 2 picks up where the first game left off, exploring Max's turbulent journey as he faces new challenges and enemies in New York City."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "The game delves deeper into Max's relationships and motivations, intertwining personal drama with intense action sequences."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Enhanced Mechanics",
+                          "paragraph": "Max Payne 2 refines the bullet time mechanics introduced in the first game, offering improved controls and cinematic combat sequences."
+                        },
+                        {
+                          "subHeading": "Dual Protagonists",
+                          "paragraph": "Players control Max and Mona Sax, a femme fatale with her own agenda, adding depth to the storyline and gameplay dynamics."
+                        },
+                        {
+                          "subHeading": "Visuals and Presentation",
+                          "paragraph": "The game maintains the graphic novel-style presentation of its predecessor while enhancing visuals and narrative complexity."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Reception",
+                          "paragraph": "Max Payne 2 received acclaim for its compelling narrative, improved gameplay mechanics, and emotional depth. It solidified the series' reputation for cinematic storytelling."
+                        },
+                        {
+                          "subHeading": "Impact",
+                          "paragraph": "The game further cemented Max Payne's status as a key figure in gaming, expanding upon its predecessor's success and setting benchmarks for interactive storytelling."
+                        }
+                      ]
+                    }
+                  ]
                   
-                  {
-                    "id": 1,
-                    "title": "Max Payne 2: The Fall of Max Payne",
-                    "genre": "Action, Third-person shooter",
-                    "release-dates": [
-                      "Microsoft Windows and Xbox: October 2003",
-                      "PlayStation 2: November 2003"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Continuation of Max's Story",
-                            "paragraph": "Max Payne 2 picks up where the first game left off, exploring Max's turbulent journey as he faces new challenges and enemies in New York City."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "The game delves deeper into Max's relationships and motivations, intertwining personal drama with intense action sequences."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Enhanced Mechanics",
-                            "paragraph": "Max Payne 2 refines the bullet time mechanics introduced in the first game, offering improved controls and cinematic combat sequences."
-                          },
-                          {
-                            "sub-heading": "Dual Protagonists",
-                            "paragraph": "Players control Max and Mona Sax, a femme fatale with her own agenda, adding depth to the storyline and gameplay dynamics."
-                          },
-                          {
-                            "sub-heading": "Visuals and Presentation",
-                            "paragraph": "The game maintains the graphic novel-style presentation of its predecessor while enhancing visuals and narrative complexity."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Reception",
-                            "paragraph": "Max Payne 2 received acclaim for its compelling narrative, improved gameplay mechanics, and emotional depth. It solidified the series' reputation for cinematic storytelling."
-                          },
-                          {
-                            "sub-heading": "Impact",
-                            "paragraph": "The game further cemented Max Payne's status as a key figure in gaming, expanding upon its predecessor's success and setting benchmarks for interactive storytelling."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  },
+                },
+                
+                {
+                  "id": 2,
+                  "title": "Max Payne 3",
+                  "genre": "Action, Third-person shooter",
+                  "releaseDates": [
+                    "PlayStation 3, Xbox 360: May 2012",
+                    "Microsoft Windows: June 2012"
+                  ],
+                  "body": [
+                    {
+                      "heading": "Overview",
+                      "content": [
+                        {
+                          "subHeading": "Setting",
+                          "paragraph": "Max Payne 3 shifts the setting to São Paulo, Brazil, where Max finds himself working in private security for a wealthy family."
+                        },
+                        {
+                          "subHeading": "Plot",
+                          "paragraph": "The game follows Max's struggle with addiction and his quest for redemption, as he becomes embroiled in São Paulo's violent underworld."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Gameplay",
+                      "content": [
+                        {
+                          "subHeading": "Evolved Combat Mechanics",
+                          "paragraph": "Max Payne 3 introduces refined bullet time and shooting mechanics, offering fluid gameplay and dynamic gunplay in urban environments."
+                        },
+                        {
+                          "subHeading": "Narrative Depth",
+                          "paragraph": "The game explores Max's character through flashback sequences and cinematic storytelling, blending action with emotional narrative arcs."
+                        },
+                        {
+                          "subHeading": "Multiplayer",
+                          "paragraph": "Max Payne 3 includes an online multiplayer mode featuring competitive and cooperative gameplay, expanding the experience beyond the single-player campaign."
+                        }
+                      ]
+                    },
+                    {
+                      "heading": "Reception",
+                      "content": [
+                        {
+                          "subHeading": "Critical Acclaim",
+                          "paragraph": "Max Payne 3 received praise for its mature storytelling, intense action sequences, and technical achievements. It built upon the series' legacy while delivering a fresh experience."
+                        },
+                        {
+                          "subHeading": "Legacy",
+                          "paragraph": "As the latest installment in the series, Max Payne 3 continued to uphold the franchise's standards for gripping narratives and cinematic gameplay, attracting both longtime fans and new players."
+                        }
+                      ]
+                    }
+                  ]
                   
-                  {
-                    "id": 2,
-                    "title": "Max Payne 3",
-                    "genre": "Action, Third-person shooter",
-                    "release-dates": [
-                      "PlayStation 3, Xbox 360: May 2012",
-                      "Microsoft Windows: June 2012"
-                    ],
-                    "body": [
-                      {
-                        "heading": "Overview",
-                        "content": [
-                          {
-                            "sub-heading": "Setting",
-                            "paragraph": "Max Payne 3 shifts the setting to São Paulo, Brazil, where Max finds himself working in private security for a wealthy family."
-                          },
-                          {
-                            "sub-heading": "Plot",
-                            "paragraph": "The game follows Max's struggle with addiction and his quest for redemption, as he becomes embroiled in São Paulo's violent underworld."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Gameplay",
-                        "content": [
-                          {
-                            "sub-heading": "Evolved Combat Mechanics",
-                            "paragraph": "Max Payne 3 introduces refined bullet time and shooting mechanics, offering fluid gameplay and dynamic gunplay in urban environments."
-                          },
-                          {
-                            "sub-heading": "Narrative Depth",
-                            "paragraph": "The game explores Max's character through flashback sequences and cinematic storytelling, blending action with emotional narrative arcs."
-                          },
-                          {
-                            "sub-heading": "Multiplayer",
-                            "paragraph": "Max Payne 3 includes an online multiplayer mode featuring competitive and cooperative gameplay, expanding the experience beyond the single-player campaign."
-                          }
-                        ]
-                      },
-                      {
-                        "heading": "Reception",
-                        "content": [
-                          {
-                            "sub-heading": "Critical Acclaim",
-                            "paragraph": "Max Payne 3 received praise for its mature storytelling, intense action sequences, and technical achievements. It built upon the series' legacy while delivering a fresh experience."
-                          },
-                          {
-                            "sub-heading": "Legacy",
-                            "paragraph": "As the latest installment in the series, Max Payne 3 continued to uphold the franchise's standards for gripping narratives and cinematic gameplay, attracting both longtime fans and new players."
-                          }
-                        ]
-                      }
-                    ],
-                    "image": []
-                  }                  
-            ]
-        }
-    ]
+                }                  
+          ]
+      }
+  ],
+  "galleryImages":[
+    "images/gallery/1.jpg",
+    "images/gallery/2.jpg",
+    "images/gallery/3.jpg",
+    "images/gallery/4.jpg",
+    "images/gallery/5.jpg",
+    "images/gallery/6.jpg",
+    "images/gallery/7.jpg",
+    "images/gallery/8.jpg",
+    "images/gallery/9.jpg",
+    "images/gallery/10.jpg",
+    "images/gallery/11.jpg",
+    "images/gallery/12.jpg",
+    "images/gallery/13.jpg",
+    "images/gallery/14.jpg",
+    "images/gallery/15.jpg",
+    "images/gallery/16.jpg",
+    "images/gallery/17.jpg",
+    "images/gallery/18.jpg",
+    "images/gallery/18.jpg",
+    "images/gallery/20.jpg",
+    "images/gallery/21.jpg",
+    "images/gallery/22.jpg",
+    "images/gallery/23.jpg",
+    "images/gallery/24.jpg",
+    "images/gallery/25.jpg",
+    "images/gallery/26.jpg",
+    "images/gallery/27.jpg",
+    "images/gallery/28.jpg",
+    "images/gallery/29.jpg",
+    "images/gallery/30.jpg",
+    "images/gallery/31.jpg",
+    "images/gallery/32.jpg",
+    "images/gallery/33.jpg",
+    "images/gallery/34.jpg",
+    "images/gallery/35.jpg",
+    "images/gallery/36.jpg",
+    "images/gallery/37.jpg",
+    "images/gallery/38.jpg",
+    "images/gallery/39.jpg",
+    "images/gallery/40.jpg",
+    "images/gallery/41.jpg",
+    "images/gallery/42.jpg",
+    "images/gallery/43.jpg",
+    "images/gallery/44.jpg",
+    "images/gallery/45.jpg",
+    "images/gallery/46.jpg",
+    "images/gallery/47.jpg",
+    "images/gallery/48.jpg",
+    "images/gallery/49.jpg",
+    "images/gallery/50.jpg",
+    "images/gallery/51.jpg",
+    "images/gallery/52.jpg",
+    "images/gallery/53.jpg",
+    "images/gallery/54.jpg",
+    "images/gallery/55.jpg",
+    "images/gallery/56.jpg",
+    "images/gallery/57.jpg",
+    "images/gallery/58.jpg",
+    "images/gallery/59.jpg",
+    "images/gallery/60.jpg",
+    "images/gallery/61.jpg",
+    "images/gallery/62.jpg",
+    "images/gallery/63.jpg",
+    "images/gallery/64.jpg",
+    "images/gallery/65.jpg",
+    "images/gallery/66.jpg",
+    "images/gallery/67.jpg",
+    "images/gallery/68.jpg",
+    "images/gallery/69.jpg",
+    "images/gallery/70.jpg",
+    "images/gallery/71.jpg",
+    "images/gallery/72.jpg",
+    "images/gallery/73.jpg",
+    "images/gallery/74.jpg",
+    "images/gallery/75.jpg",
+    "images/gallery/76.jpg",
+    "images/gallery/77.jpg",
+    "images/gallery/78.jpg",
+    "images/gallery/79.jpg",
+    "images/gallery/80.jpg",
+    "images/gallery/81.jpg",
+    "images/gallery/82.jpg",
+    "images/gallery/83.jpg",
+    "images/gallery/84.jpg",
+    "images/gallery/85.jpg",
+    "images/gallery/86.jpg",
+    "images/gallery/87.jpg",
+    "images/gallery/88.jpg",
+    "images/gallery/89.jpg",
+    "images/gallery/90.jpg",
+    "images/gallery/91.jpg",
+    "images/gallery/92.jpg",
+    "images/gallery/93.jpg",
+    "images/gallery/94.jpg",
+    "images/gallery/95.jpg",
+    "images/gallery/96.jpg",
+    "images/gallery/97.jpg",
+    "images/gallery/98.jpg",
+    "images/gallery/99.jpg",
+    "images/gallery/100.jpg"
+  ],
+
+  "galleryVideos":[
+    "videos/gallery/1.mp4",
+    "videos/gallery/2.mp4",
+    "videos/gallery/3.mp4",
+    "videos/gallery/4.mp4",
+    "videos/gallery/5.mp4",
+    "videos/gallery/6.mp4",
+    "videos/gallery/7.mp4"
+  ]
 }
