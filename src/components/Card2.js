@@ -3,10 +3,10 @@ import {FaChevronDown} from "react-icons/fa";
 import '../styles/Card2.css';
 import { Link } from "react-router-dom";
 
-const Card2 = ({ obj,reverse }) => {
+const Card2 = ({ obj,reverse,link }) => {
 
     const heightRef = useRef(0); 
-
+    console.log(link)
     useEffect(()=>{
         if(isActive){
             const items=heightRef.current.getElementsByClassName("dropdown-item");
@@ -40,7 +40,7 @@ const Card2 = ({ obj,reverse }) => {
             <div className={`dropdown-content ${isActive ? "open":""}`} ref={heightRef}>
                 {
                     obj.games.map((game,id)=>(
-                       <Link to={`GameInfo/${game.replace(/\s+/g, '')}`}>
+                       <Link to={`${link}${game.replace(/\s+/g, '')}`}>
                              <div className="dropdown-item" key={id}>
                                 <p>{ game }</p>
                             </div>

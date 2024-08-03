@@ -18,7 +18,7 @@ const Games = () => {
             {
                 seriesList &&
                 seriesList.map((series,index)=>(
-                    <Card2 obj={series} reverse={(index+1)%2 === 0}/>
+                    <Card2 obj={series} reverse={(index+1)%2 === 0} link={`GameInfo/`}/>
                 ))
             }
         </div>

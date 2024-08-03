@@ -38,8 +38,8 @@ const Home = () => {
             {
                 games &&
                 <div className="cards-preview-2">
-                    <Card2 obj={games[0]} reverse={false}/>
-                    <Card2 obj={games[1]} reverse={true}/>
+                    <Card2 obj={games[0]} reverse={false} link={`Games/GameInfo/`}/>
+                    <Card2 obj={games[1]} reverse={true} link={`Games/GameInfo/`}/>
                 </div>
             }
             <div className="view-more">
